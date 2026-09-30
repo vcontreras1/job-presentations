@@ -1,0 +1,23 @@
+{
+  "name": "job-presentations",
+  "version": "1.0.0",
+  "description": "Plantillas de presentación",
+  "scripts": {
+    "build": "node scripts/build-plantilla.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vcontreras1/job-presentations.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vcontreras1/job-presentations/issues"
+  },
+  "homepage": "https://github.com/vcontreras1/job-presentations#readme",
+  "dependencies": {
+    "pptxgenjs": "^4.0.1"
+  },
+  "private": true
+}
