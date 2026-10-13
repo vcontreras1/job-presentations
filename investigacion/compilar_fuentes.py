@@ -96,6 +96,23 @@ def main():
                 for fila in filas:
                     matriz.append({"archivo": archivo.stem, **{cabecera[k]: (fila[k] if k < len(fila) else "") for k in range(len(cabecera))}})
 
+    # Enlaces citados en la copia Markdown del documento (investigacion/documento_longevidad.md)
+    documento = SALIDA / "documento_longevidad.md"
+    if documento.exists():
+        for texto_enlace, url in re.findall(r"\[([^\]]+)\]\((https?://[^)\s]+)\)", documento.read_text(encoding="utf-8")):
+            url = url.rstrip(".,;")
+            clave = url.lower().rstrip("/")
+            if clave in vistas:
+                vistas[clave]["archivos"].add("documento")
+                continue
+            registro = {
+                "archivos": {"documento"}, "id_local": "", "entidad": texto_enlace.replace("\\_", "_"), "titulo": "",
+                "url": url, "dominio": urlparse(url).netloc.lower().removeprefix("www."), "fecha": "",
+                "nivel": "", "abierta": "sí", "cifras": "",
+            }
+            vistas[clave] = registro
+            fuentes.append(registro)
+
     with (SALIDA / "fuentes.csv").open("w", newline="", encoding="utf-8") as f:
         campos = ["n", "dominio", "entidad", "titulo", "url", "fecha", "nivel", "abierta", "cifras", "id_local", "archivos"]
         w = csv.DictWriter(f, fieldnames=campos)

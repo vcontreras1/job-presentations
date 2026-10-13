@@ -73,11 +73,24 @@ def reduccion_rendimientos_trabajo(rn):
     return 0.0
 
 
-def irpf(bruto, cotizaciones, mayor_65=False):
+def deduccion_smi(bruto):
+    """DA 61.ª LIRPF: deducción en cuota para salarios bajos (no aplica a pensiones)."""
+    d = v("irpf.deduccion_smi")
+    if bruto <= d["limite_pleno"]:
+        return d["importe"]
+    if bruto >= d["limite_cero"]:
+        return 0.0
+    return d["importe"] * (d["limite_cero"] - bruto) / (d["limite_cero"] - d["limite_pleno"])
+
+
+def irpf(bruto, cotizaciones, mayor_65=False, salario=True):
     rendimiento_neto = max(0.0, bruto - cotizaciones - v("irpf.otros_gastos"))
     base = max(0.0, rendimiento_neto - reduccion_rendimientos_trabajo(rendimiento_neto))
     minimo = v("irpf.minimo_personal_65") if mayor_65 else v("irpf.minimo_personal")
-    return max(0.0, escala(base) - escala(min(minimo, base)))
+    cuota = max(0.0, escala(base) - escala(min(minimo, base)))
+    if salario:
+        cuota = max(0.0, cuota - deduccion_smi(bruto))
+    return cuota
 
 
 # ---------------------------------------------------------------- pensión pública
@@ -133,7 +146,7 @@ def calcular(perfil):
     neto = salario - cot - irpf(salario, cot)
 
     pension = pension_anual(salario, perfil["anos_cotizados"], v("supuestos.crecimiento_real_salario"))
-    pension_neta = pension - irpf(pension, 0.0, mayor_65=True)
+    pension_neta = pension - irpf(pension, 0.0, mayor_65=True, salario=False)
 
     gasto_ref = perfil["gasto_hogar_referencia_anual"]
     brecha_salario = max(0.0, neto - pension_neta)
@@ -163,8 +176,44 @@ def calcular(perfil):
     }
 
 
+def curva_sustitucion(desde=15000, hasta=150000, paso=5000):
+    """Tasa de sustitución neta para una carrera completa (40 años) a lo largo de la escala salarial."""
+    filas = []
+    for salario in range(desde, hasta + 1, paso):
+        r = calcular({"nombre": "", "salario_bruto_anual": salario, "anos_cotizados": 40,
+                      "gasto_hogar_referencia_anual": v("referencias_hogar.gasto_unipersonal_65")})
+        filas.append({"salario_bruto_anual": salario, "tasa_sustitucion_neta": r["tasa_sustitucion_neta"],
+                      "tasa_sustitucion_bruta": r["tasa_sustitucion_bruta"],
+                      "pension_neta_mensual_12": r["pension_neta_mensual_12"]})
+    return filas
+
+
+def salario_umbral(objetivo_neto_anual, anos=40):
+    """Salario bruto mínimo cuya pensión neta (carrera completa) alcanza un importe neto anual."""
+    lo, hi = 10000.0, 200000.0
+    for _ in range(60):
+        mid = (lo + hi) / 2
+        pension = pension_anual(mid, anos, v("supuestos.crecimiento_real_salario"))
+        neta = pension - irpf(pension, 0.0, mayor_65=True, salario=False)
+        lo, hi = (mid, hi) if neta < objetivo_neto_anual else (lo, mid)
+    return round(hi, -2)
+
+
 def main():
     filas = [calcular(p) for p in P["perfiles"]]
+    curva = curva_sustitucion()
+    with (HERE / "curva_sustitucion.csv").open("w", newline="", encoding="utf-8") as f:
+        w = csv.DictWriter(f, fieldnames=list(curva[0].keys()))
+        w.writeheader()
+        w.writerows(curva)
+    umbrales = {
+        "umbral_pobreza_1_adulto": salario_umbral(v("referencias_hogar.umbral_pobreza_1_adulto")),
+        "gasto_unipersonal_65": salario_umbral(v("referencias_hogar.gasto_unipersonal_65")),
+        "gasto_pareja_65_una_pension": salario_umbral(v("referencias_hogar.gasto_pareja_65")),
+        "gasto_pareja_65_dos_pensiones_iguales": salario_umbral(v("referencias_hogar.gasto_pareja_65") / 2),
+    }
+    (HERE / "umbrales_salariales.json").write_text(json.dumps(umbrales, indent=2, ensure_ascii=False), encoding="utf-8")
+    print("Salario bruto mínimo (carrera completa) para que la pensión neta cubra:", umbrales)
     with (HERE / "resultados.csv").open("w", newline="", encoding="utf-8") as f:
         w = csv.DictWriter(f, fieldnames=list(filas[0].keys()))
         w.writeheader()

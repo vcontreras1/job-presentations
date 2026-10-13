@@ -7,14 +7,14 @@
 ---
 ## BLOQUE A1 (guardado 2026-10-13) — Parámetros normativos 2026 verificados en BOE y Seguridad Social (nivel 1, fuente abierta)
 
-- [OBS][S01] Revalorización general de pensiones 2026: **2,7 %** (RD 241/2026, de 25-mar, BOE nº 75 de 26-mar-2026, BOE-A-2026-7296 NO; el RD es BOE-A-2026-6977). Cadena normativa: RDL 16/2025 (23-dic) no convalidado por el Congreso el 27-ene-2026 → RD 39/2026 (21-ene) decae → RDL 3/2026 (3-feb) "para la revalorización de las pensiones públicas y otras medidas urgentes en materia de Seguridad Social" → RD 241/2026 (efectos desde 1-ene-2026). Fórmula legal: art. 58 LGSS (media de IPC interanual de los 12 meses hasta noviembre) — el RD indica "12 meses previos a diciembre del año anterior".
+- [OBS][S01] Revalorización general de pensiones 2026: **2,7 %** (RD 241/2026, de 25-mar, BOE nº 75 de 26-mar-2026, BOE-A-2026-6977). Cadena normativa: RDL 16/2025 (23-dic) no convalidado por el Congreso el 27-ene-2026 → RD 39/2026 (21-ene) decae → RDL 3/2026 (3-feb) "para la revalorización de las pensiones públicas y otras medidas urgentes en materia de Seguridad Social" → RD 241/2026 (efectos desde 1-ene-2026). Fórmula legal: art. 58 LGSS (media de IPC interanual de los 12 meses hasta noviembre) — el RD indica "12 meses previos a diciembre del año anterior".
 - [OBS][S01] Pensión máxima inicial 2026: **3.359,60 €/mes (14 pagas) = 47.034,40 €/año** (art. 1 RDL 3/2026; art. 57 LGSS; DT 39ª LGSS: desde 2025 la máxima crece IPC (art. 58.2) + 0,115 pp acumulativos/año hasta 2050).
 - [OBS][S01] Pensiones mínimas contributivas 2026 (Anexo I RD 241/2026), jubilación titular con 65 años: **con cónyuge a cargo 17.592,40 €/año (=1.256,60 €/mes ×14)**; **sin cónyuge (unidad económica unipersonal) 13.106,80 €/año (=936,20 €/mes ×14)**; con cónyuge no a cargo 12.441,80 €/año (=888,70 €/mes ×14). Titular <65 años: 12.262,60 €/año sin cónyuge (=875,90 €/mes) y 11.590,60 con cónyuge no a cargo. Viudedad con cargas familiares 17.592,40 €/año; viudedad 65+ 13.106,80 €/año.
 - [OBS][S01] Complemento de reducción de la brecha de género 2026: **36,9 €/mes por hijo** (máx. 4 hijos) (nota SS sept-2026 / RD 241/2026).
 - [OBS][S02] Base máxima de cotización 2026: **5.101,20 €/mes** (art. 2.1 Orden PJC/297/2026, de 30-mar, BOE nº 79 de 31-mar-2026, BOE-A-2026-7296; fija por art. 3 RDL 3/2026). Anual = 61.214,40 € (×12). Base mínima grupos 4-7: 1.424,40 €/mes; grupo 1: 1.989,30 €/mes; grupos 2 y 3: 1.649,70 y 1.435,20 €/mes. Contexto: prórroga presupuestaria 2023 (art. 134.4 CE), por tanto la Orden se publicó tarde (31-mar-2026) con efectos desde 1-ene.
 - [OBS][S02] Tipos de cotización Régimen General 2026 (arts. 4, 16 y 17 Orden PJC/297/2026):
   - Contingencias comunes: **28,30 %** (empresa 23,60 % / trabajador **4,70 %**).
-  - **MEI 2026: 0,90 %** sobre la base de contingencias comunes (empresa 0,75 % / trabajador 0,15 %) (art. 16). [Calendario legal MEI: 0,6 % en 2023 → +0,1 pp/año hasta 1,2 % en 2029, reparto 5/6 empresa y 1/6 trabajador — verificar en art. 127 bis LGSS / RDL 2/2023 (pendiente de contraste en bloque siguiente)].
+  - **MEI 2026: 0,90 %** sobre la base de contingencias comunes (empresa 0,75 % / trabajador 0,15 %) (art. 16). [Calendario legal MEI verificado en DT 43ª LGSS: ver bloque A2].
   - **Cuota de solidaridad 2026** (art. 17; art. 19 bis LGSS; art. 72 bis RGCL): sobre la parte de retribución por encima de la base máxima: **1,15 %** (tramo 5.101,21–5.611,32 €/mes; empresa 0,96 % / trabajador 0,19 %); **1,25 %** (5.611,33–7.651,80; 1,04 % / 0,21 %); **1,46 %** (>7.651,80; 1,22 % / 0,24 %). Es decir, reparto aprox. 5/6 empresa y 1/6 trabajador. Es cotización "sin derecho a prestación" (no genera pensión adicional).
   - Tope mínimo AT/EP = SMI + 1/6, no inferior a 1.424,40 €/mes.
 - [OBS][S03] Seguridad Social, nota de prensa de estadística de pensiones de **septiembre 2026** (publicada 25-sep-2026), Revista Seguridad Social:
@@ -88,7 +88,7 @@ Fuente: INE, nota de prensa EPF 2025 (https://www.ine.es/dyngs/Prensa/EPF2025.ht
 | 45-64 | 38.683 | 13.814 | 20.884 | 47,9 |
 | **65 y más** | **31.576** (≈2.631 €/mes) | **16.574** (≈1.381 €/mes) | 21.816 | 27,4 |
 
-  (2024 para 65+: 31.576→30.594 por hogar; 16.039 por persona.) El gasto por persona de los hogares de 65+ es un 17,8 % superior a la media (índice 117,8), porque son hogares pequeños; el gasto por hogar es un 10,0 % inferior. [CALC con tabla 73787].
+  (2024 para 65+: 30.594 € por hogar y 16.039 € por persona.) El gasto por persona de los hogares de 65+ es un 17,8 % superior a la media (índice 117,8), porque son hogares pequeños; el gasto por hogar es un 10,0 % inferior. [CALC con tabla 73787].
 - **Por tipo de hogar (EPF 2025, tabla 73793), € por año (hogar / persona):**
   - **Persona sola de 65 o más años: 23.024 € por hogar (≈1.919 €/mes)**, +4,3 % (2024: 22.081); 7,7 % de los hogares.
   - Persona sola <65: 23.784 € (+7,0 %); 11,2 % de los hogares.
@@ -182,3 +182,102 @@ Convención OCDE: trabajador que entra en el mercado a los 22 años con carrera 
 | 100.000 € | 61.214 | 47.034 | **47,0 %** |
 | 150.000 € | 61.214 | 47.034 | **31,4 %** |
 Notas: (i) supuesto de bases siempre en el tope y carrera ≥37 años, sin demora; (ii) la BR a tope = 5.101,20×12/14 = 4.372 €/mes > 3.359,60 €/mes de máxima → la pensión máxima recorta la BR un 23,2 %; (iii) quien demora tras 67 años puede recibir +4 %/año y un complemento que puede superar la máxima (art. 210.2 LGSS); (iv) las tasas netas son más altas porque la pensión tributa menos (ver bloque de IRPF).
+
+---
+## BLOQUE C4 (guardado 2026-10-13) — Patrimonio de los hogares: EFF 2022 del Banco de España, vía fuentes secundarias abiertas [S15, S16, S20]
+
+- **Fuente primaria (Banco de España, EFF 2022, publicada en primavera de 2024) NO abierta:** el repositorio del BdE devolvió HTTP 403 desde este entorno [S28] → las tablas oficiales de riqueza mediana por tramo de edad del cabeza de familia son un HUECO.
+- **Riqueza neta mediana de los hogares 2022 (euros constantes de 2022): 142.700 €** (media 309.000 €); renta mediana del hogar 32.400 € (media 43.100 €; renta de 2021). El 83,8 % de los hogares posee activos reales (mediana 181.300 € entre los que los tienen) y el 97,7 % activos financieros (mediana 16.200 €). [S15 CaixaBank Research, 5-jun-2024]
+- **Contradicción:** Deia (3-mar-2025) da 147.700 € de mediana [S20, abierta; media 309.000 €; ratio media/mediana 2,16 en 2022 frente a 1,47 en 2005]. Prevalece 142.700 € (CaixaBank, texto íntegro abierto, y coincide con el resumen de la EFF 2022 que devolvió el buscador); 147.700 parece errata. Estado: rango 142.700-147.700; confianza B.
+- **Brecha generacional (EFF 2022) [S15]:** entre 2002 y 2022 la riqueza neta total de los hogares con cabeza <35 años cayó un 72,7 % y la de >74 años subió un 98,7 %; la ratio de riqueza de los jóvenes respecto a 35-44 años pasó del 55 % (2002) al 26 % (2022) y los mayores de 74 años casi triplican la riqueza de los de 35-44. Renta mediana 2001-2021: <35 años −19,8 %; >74 años +40,5 % (partiendo de ser el grupo con menor renta). Propiedad de vivienda principal entre los jóvenes: 31,8 % (66 % en 2002). Mediana de cuentas utilizables para pagos: <35 años 3.270 € (2.120 en 2002) vs >75 años casi 15.000 € (2.650 en 2002). Activos financieros = 21 % de la riqueza bruta total (21 % jóvenes; 28 % >74). Hogares >75 años con fondos de inversión 14,8 % (2,6 % en 2002) y con planes de pensiones/seguros 12,1 % (2,1 %).
+- **[S16 Instituto Santalucía, nota de prensa 29-abr-2026, microdatos EFF; sesgo de patrocinador: aseguradora Grupo Santalucía, informe de Conde-Ruiz y García-Rodríguez]:** riqueza **media** de 65-74 años >425.000 € frente a ≈83.000 € de los <35 (media, no mediana); los >75 años concentran el 18,3 % de la riqueza neta total (8,3 % en 2002), los <35 años el 2,1 % (8,2 % en 2002); el 1 % más rico acumula el 21 % y la mitad más pobre el 7 %; Gini de la riqueza 0,69 (0,57 en 2002); la vivienda supone >80 % de los activos; brecha de riqueza mayores-jóvenes >340.000 € en 2022. Los microdatos de la EFF 2024 se esperan a finales de 2026 → no hay cifras EFF más recientes a 13-oct-2026.
+- **HUECO:** riqueza neta mediana de hogares con cabeza 65-74 y ≥75 años (EFF 2022). No recuperada. Lo único citable: la riqueza (media y mediana) crece con la edad hasta los 65-74 años [S20], y la media de 65-74 supera los 425.000 € [S16].
+
+---
+## BLOQUE C5 (guardado 2026-10-13) — ¿Cuánto hace falta para «vivir dignamente»? Presupuestos de referencia (nivel 2) [S19]
+
+- Único estudio español con metodología de presupuesto de referencia localizado y abierto: Ubrich, Flores y de Lorenzo (2025), «Presupuesto de referencia para unas condiciones de vida dignas (PRCVD)», *Empiria* nº 63, pp. 143-175 (autoría de Fundación FOESSA/Cáritas y UNED; revista con revisión por pares). Ocho partidas (alimentación, vestido y calzado, vivienda, vehículo y transporte, educación, salud y cuidado personal, ocio y cultura, relaciones sociales); precios de la EPF 2019 (actualizados por IPC hasta 2022 en la publicación FOESSA «Análisis y Perspectivas 2022»).
+- **Cuantías anuales (Tablas 1-2 del artículo): presupuesto basal del hogar 3.792 €/año** (suministros 1.986; mantenimiento 1.193; ordenador 176; farmacia 249; dental 137; limpieza de ropa 51) **+ por cada adulto de 13+ años: mujer 4.082 €/año, varón 4.042 €/año** (alimentación 2.208; vestido 365; telecomunicaciones 722; peluquería 120/80; aseo 120; ocio 365; relaciones sociales 182). [CALC] Persona sola (mujer) ≈ 7.874 €/año (≈656 €/mes); pareja de adultos ≈ 11.916 €/año (≈993 €/mes). Precios 2019-2022; las tablas leídas NO incluyen cuota de alquiler/hipoteca ni coche (el artículo trata aparte a los hogares que pagan vivienda: 18,7 % de ellos lejos del PRCVD; no verificado si existe una partida adicional) → es un suelo de dignidad, no un presupuesto «cómodo».
+- **Resultado empírico (encuesta propia FOESSA):** ingresos <85 % del PRCVD («graves dificultades»): **31,5 %** de los hogares españoles; 85-115 % («vulnerables»): 23,7 %; >115 % (viven dignamente y con holgura): 44,8 %. Hogares con necesidades de cuidados lejos del PRCVD: 22,7 %; con pago mensual de vivienda: 18,7 %.
+- **Comparaciones [CALC]:** pensión mínima de jubilación sin cónyuge 2026 (13.106,8 €/año) = 1,66× el PRCVD de persona sola sin vivienda; pensión media de jubilación (22.065 €/año) = 2,8×; gasto real EPF 2025 de persona sola 65+ (23.024 €) = 2,9× (porque incluye vivienda, imputaciones, etc.).
+- **No localizados (HUECO):** estimaciones de OCU, Funcas, BBVA Mi Jubilación o universidades sobre «cuánto necesita un jubilado» con cifras abiertas. Cautela: las cifras de «capital necesario» de aseguradoras/gestoras tienen sesgo comercial; no se han usado.
+
+---
+## BLOQUE E1 (guardado 2026-10-13) — SMI 2026, IRPF 2026 y cotizaciones del trabajador (para estimar netos) [S13, S14, S02]
+
+**SMI 2026 (RD 126/2026, de 18-feb, BOE 19-feb-2026, BOE-A-2026-3815, art. 1) [S14, abierta]:** 40,70 €/día o **1.221 €/mes (×14 = 17.094 €/año)**; +3,1 % sobre 2025 (1.184 €/mes, 16.576 €/año); con pagas prorrateadas 1.424,50 €/mes. [S25/S26 snippets coinciden.] SMI 2024 usado por la AEAT: 15.876 €/año. Base máxima 2026 = 3,58 SMI-2026 (61.214,4/17.094) [CALC].
+
+**IRPF (Ley 35/2006, LIRPF, texto consolidado con última actualización 7-oct-2026) [S13, abierta]:**
+- **Escala estatal de la base liquidable general (art. 63):** hasta 12.450 €: 9,5 %; 12.450-20.200: 12 %; 20.200-35.200: 15 %; 35.200-60.000: 18,5 %; 60.000-300.000: 22,5 %; >300.000: 24,5 %. La escala autonómica supletoria (art. 74 y Ley 22/2009) replica estos tramos, de modo que el tipo combinado es 19/24/30/37/45/47 % (la equivalencia autonómica no consta literalmente en el texto leído; las CCAA pueden modificarla → estimar con cautela).
+- **Mínimo del contribuyente (art. 57): 5.550 €; +1.150 € si >65 años; +1.400 € adicionales si >75 años** (sin cambios desde 2015).
+- **Gastos deducibles (art. 19.2):** cotizaciones a la Seguridad Social y **2.000 € de «otros gastos» (letra f)** (más 3.500/7.750 € si discapacidad).
+- **Reducción por rendimientos del trabajo (art. 20, redacción RDL 4/2024, desde 28-jun-2024):** rendimiento neto ≤14.852 €: 7.302 €; 14.852,01-17.673,52 €: 7.302 − 1,75×(RN − 14.852); 17.673,52-19.747,5 €: 2.364,34 − 1,14×(RN − 17.673,52); >19.747,5: 0 (si otras rentas ≤6.500 €). Aplica a pensiones, que son rendimientos del trabajo.
+- **DA 61ª LIRPF (modificada por art. 28 RDL 5/2026, de 17-feb, BOE-A-2026-3810, efectos 1-ene-2026):** deducción en cuota por rendimientos del trabajo (relación laboral/estatutaria) <20.048,45 €: **590,89 € si íntegros ≤17.094 € (=SMI anual 2026)**, decreciente hasta 20.048,45 € → un trabajador con SMI no paga IRPF.
+- **Cotizaciones del trabajador 2026 (Orden PJC/297/2026, arts. 4, 16 y 17 y tipos de desempleo y FP) [S02]:** contingencias comunes 4,70 % + MEI 0,15 % + desempleo (indefinido) 1,55 % + formación profesional 0,10 % = **6,50 %** hasta la base máxima; solidaridad 0,19/0,21/0,24 % sobre el exceso. Empresa: 23,60 % + MEI 0,75 % + desempleo 5,50 % + FP 0,60 % + FOGASA 0,20 % + AT/EP + solidaridad 0,96/1,04/1,22 %.
+
+**Estimaciones de netos [CALC propio con esos parámetros; script irpf_net.py en scratchpad/scripts/pensiones; tipo efectivo teórico, sin deducciones familiares ni autonómicas, sin retenciones reales]:**
+
+**Tabla N1. Pensiones de jubilación 2026: IRPF teórico y neto (titular >65 años, sin cargas familiares; 14 pagas; escala estatal+autonómica supletoria; sin retenciones reales)**
+
+| Pensión bruta mensual (14 pagas) | Bruta anual € | IRPF teórico € | Tipo efectivo | Neta anual € | Neta mensual (14 pagas) € |
+|---|---|---|---|---|---|
+| Mínima jubilación sin cónyuge (936,20) | 13,107 | 0 |  0.0 % | 13,107 | 936 |
+| SOVI media (539,25) | 7,550 | 0 |  0.0 % | 7,550 | 539 |
+| Media jubilación mujeres (1.270,95) | 17,793 | 653 |  3.7 % | 17,140 | 1,224 |
+| Media RETA (1.062,76) | 14,879 | 0 |  0.0 % | 14,879 | 1,063 |
+| Media jubilación sistema (1.576,10) | 22,065 | 2,920 | 13.2 % | 19,145 | 1,368 |
+| Nuevas altas ago-2026 (1.711,41) | 23,960 | 3,480 | 14.5 % | 20,479 | 1,463 |
+| Media RG (1.734,65) | 24,285 | 3,578 | 14.7 % | 20,707 | 1,479 |
+| 2.000 €/mes | 28,000 | 4,692 | 16.8 % | 23,308 | 1,665 |
+| Máxima 2026 (3.359,60) | 47,034 | 11,091 | 23.6 % | 35,943 | 2,567 |
+
+**Tabla N2. Salario bruto anual 2026 vs pensión máxima: tasa de sustitución mecánica (carrera completa en la base máxima; ilustrativo)**
+
+| Salario bruto anual € | Cotiz. trabajador (SS+MEI+desempleo+FP+solidaridad) € | IRPF teórico € | Salario neto € | Pensión máxima bruta € | Pensión máxima neta € | Tasa bruta (pensión máx./salario) | Tasa neta |
+|---|---|---|---|---|---|---|---|
+| 61,214 | 3,979 | 15,084 | 42,151 | 47.034 | 35,943 | 76.8 % | 85.3 % |
+| 80,000 | 4,017 | 23,139 | 52,844 | 47.034 | 35,943 | 58.8 % | 68.0 % |
+| 100,000 | 4,062 | 32,119 | 63,819 | 47.034 | 35,943 | 47.0 % | 56.3 % |
+| 150,000 | 4,182 | 54,565 | 91,253 | 47.034 | 35,943 | 31.4 % | 39.4 % |
+
+(Pensión máxima neta anual 35,943 € = 2,567 €/mes en 14 pagas; tipo efectivo 23.6 %.)
+
+**Tabla N3. Salario neto anual 2026 (trabajador <65, sin cargas; para equiparar con la renta disponible del hogar)**
+
+| Salario bruto € | Cotiz. trabajador € | IRPF teórico € | Neto anual € | Neto mensual (12) € |
+|---|---|---|---|---|
+| 17,094 | 1,111 | 215 | 15,768 | 1,314 |
+| 25,000 | 1,625 | 3,524 | 19,852 | 1,654 |
+| 30,000 | 1,950 | 4,926 | 23,124 | 1,927 |
+| 40,000 | 2,600 | 7,745 | 29,655 | 2,471 |
+| 61,214 | 3,979 | 15,084 | 42,151 | 3,513 |
+
+Lectura: la pensión media (1.576 €/mes bruto) tributa ≈13 % en teoría y deja ≈1.368 €/mes netos en 14 pagas; a las pensiones ≤ ~1.060 €/mes (14.900 €/año) no les corresponde IRPF (reducción del art. 20 + mínimo). La pensión máxima deja ≈2.567 €/mes netos. Para sueldos de 80.000/100.000/150.000 € la pensión máxima cubre el 68 %/56 %/39 % del salario neto (OCDE: 2×AW → 57,9 % neta).
+
+---
+## BLOQUE F1 (guardado 2026-10-13) — Esperanza de vida a 65 y 67 años (INE, Tablas de mortalidad 2024; nivel 1, abierta vía API) [S17]
+
+- A los **65 años: 21,87 años (hombres 19,87; mujeres 23,64)**. A los **67 años: 20,23 años (hombres 18,32; mujeres 21,90)**. A los 80: 10,42 (9,29 / 11,23). Año 2024, último dato disponible en la API a 13-oct-2026. Serie: 65 años 2022 21,11 → 2023 21,68 → 2024 21,87; 67 años 2023 20,04 → 2024 20,23.
+- Contraste: el buscador devuelve la misma cifra del INE para 2024 a los 65 años (19,87 h / 23,64 m) [snippet]; un informe del CSIC (octubre 2025) cifra en ≈9,7 años la esperanza de vida en buena salud a los 65 [snippet no abierto].
+- [CALC] Una persona que se jubila a los 67 con la pensión media (22.065 €/año) recibirá en media ≈446.000 € nominales (20,23 años), sin contar revalorizaciones; a los 65 con 21,9 años. Esperanza de vida restante a la edad media de acceso (65,4 años, SS nota sep-2026) ≈21,6 años [CALC por interpolación].
+
+---
+## BLOQUE G1 (guardado 2026-10-13) — Distribución por tramos de cuantía, % en la pensión máxima y < 1.000 €: evidencia disponible (calidad desigual)
+
+- **No se localizó en abierto la tabla oficial de la Seguridad Social de «pensiones de jubilación por intervalos de cuantía»** (el Excel mensual de septiembre 2026 no la incluye). Se usan: (i) El Español citando el informe INSS a 1-jul-2026 [S18, nivel 3]; (ii) AEAT ejercicio 2024 por tramos de pensión anual [S09, nivel 1]; (iii) Libre Mercado, jul-2025 [S21, nivel 3].
+- **INSS a 1-jul-2026, vía El Español (20-ago-2026) [S18]:** 10.517.634 pensiones contributivas en vigor; jubilación ≈6,73 M (3.900.801 hombres + 2.828.288 mujeres = 6.729.089 [CALC]). **1.871.962 jubilaciones cobran ≥2.000 €/mes → 27,8 % [CALC]**. **Tramo 3.300,01-3.359,58 €: 330.877 pensiones del sistema, 317.172 de jubilación (260.986 hombres; 56.186 mujeres) = 4,7 % de las jubilaciones [CALC]**; 2.721 jubilaciones entre 3.359,59 y 3.359,61 € (la máxima 2026 es 3.359,60); **163.878 pensiones superan 3.359,61 €** (≈2,4 % de las jubilaciones si fueran todas de jubilación [CALC]; incluyen presumiblemente complementos por demora/otros regímenes: la nota no lo explica). El informe indica que ese tramo recoge las máximas de hechos causantes 2024 y 2025. Cerca de 900.000 mujeres jubiladas cobran entre 800,01 y 1.050 €. En el tramo 250,01-300 € hay 165.898 pensiones (68 % orfandad). Revalorizaciones: 2022 2,5 %; 2023 8,5 %; 2024 3,8 %; 2025 2,8 %; 2026 2,7 % (acumulado 21,9 % en cinco años).
+- **Libre Mercado (18-ago-2025) [S21; prensa de opinión; atribuye datos a la SS]:** julio 2020: casi la mitad de los jubilados <1.000 €; 29,5 % 1.000-2.000; 15 % 2.000-3.000; 6,5 % >3.000. **Julio 2025: 24 % <1.000 €; 42,9 % 1.000-2.000; 17,1 % 2.000-3.000; 16 % >3.000;** nómina 11.032 → 16.905 M€/mes. **DISCREPA con [S18]** (≥2.000 €: 33,1 % en jul-2025 frente a 27,8 % en jul-2026, imposible si la distribución sólo mejora) y no cuadra con la media oficial: ponderando puntos medios de sus cuatro tramos salen ≈1.750 €/mes frente a ≈1.508 € oficiales en jul-2025 (1.576,1/1,045) [CALC aprox.] → tratar su distribución como NO fiable.
+- **AEAT 2024 (ver D1) [S09]:** 5,9 % de los 9,8 M pensionistas está en el tramo 4-4,5 PM (media 45.083 €/año) donde se apelotonan las máximas (máxima 2024 = 44.450,6 €/año); 11 % en 3,5-4,5 PM; ≈24,2 % con <1 PM (PM no identificada, ≈11.000 €/año por coherencia → ≈785 €/mes en 14 pagas [CALC no verificado]).
+- **Estimaciones puente (rangos, confianza C salvo mínimos):** % de jubilaciones en la pensión máxima (3.300-3.360 €/mes) ≈ **4,7-4,8 %** (INSS jul-2026) a 5,9 % (AEAT, pensionistas de todas las clases, 2024); % con complemento a mínimos **17,3 %** (oficial, SS sep-2026) a 18,3 % (con jubilación derivada de IP); % <1.000 €/mes ≈ 24 % (AEAT <1 PM, 2024; LM jul-2025; baja fiabilidad); % ≥2.000 € ≈ 27,8 % (INSS jul-2026).
+
+---
+## BLOQUE H (guardado 2026-10-13) — Huecos y advertencias metodológicas para el redactor
+
+1. **EPF = gasto, no coste de vida en efectivo**: la EPF incluye el grupo «Vivienda» (33,2 % del gasto) y, según la metodología del INE, el alquiler imputado de la vivienda en propiedad (no verificado en esta sesión). Para un mayor propietario sin hipoteca (82,4 % de los 65+), el desembolso monetario es menor que el «gasto medio» publicado. La ECV muestra el mismo efecto: pobreza 65+ 16,4 % → 9,3 % con alquiler imputado.
+2. **Periodos distintos**: pensiones sep-2026 (observado); EPF 2025; ECV 2025 (ingresos de 2024); EES 2024; AEAT 2024; OCDE PaG 2025 (parámetros 2024); EFF 2022; mortalidad 2024. Mezclar con cautela. No hay nada «proyectado» salvo lo marcado [PROY]/[CALC].
+3. **Umbral de pobreza**: la ECV no publica el umbral de 2 adultos; el de 18.330,6 € es mi cálculo (12.220,4 × 1,5, escala OCDE modificada). Es un umbral de 2024 (ingresos); en 2026 será mayor (≈+5 % cada año): la pensión mínima sin cónyuge (13.106,8 €) supera por poco el umbral de un adulto de 2024 (12.220,4 €); la mínima con cónyuge a cargo (17.592,4 €) queda un 4 % por debajo del umbral de dos adultos.
+4. **Sesgo de patrocinador**: Fedea (financiación privada, posición crítica con la reforma), CaixaBank Research (grupo con aseguradora), Instituto Santalucía (aseguradora). Las cifras oficiales del BOE/SS/INE/AEAT/OCDE no tienen este sesgo.
+5. **OCDE**: no se pudo abrir la web de la OCDE (403) ni el capítulo PaG; los valores proceden de la API SDMX oficial (DF_PRR). No se recuperó la media OCDE-38 ni el «salario medio» en euros de España. La media OCDE (52,0 % bruta, hombres) sólo consta en un snippet del buscador.
+6. **Alquiler medio**: sin fuente oficial abierta. Sólo snippets de portales: Enalquiler julio 2026 media nacional 1.988 €/mes (serie sin filtro de superficie, no comparable; otra serie «hasta 60 m²» 1.297 € en mayo 2026) y pisos.com sept-2025 13,79 €/m² (+16,2 %). Pendiente: INE IPVA / SERPAVI (Ministerio de Vivienda) / Idealista.
+7. **Pendientes**: informe primario de la AIReF (31-mar-2025); tabla oficial INSS de pensiones por tramos; Banco de España EFF 2022 por tramos de edad; OCU/Funcas; fecha exacta de publicación de ECV 2025, EES 2024 y PaG 2025.
+8. **Bases de cotización y ratio sobre el tope**: el % de asalariados «por encima de la base máxima» depende del año de comparación; la comparación 2024 salarios vs 2026 base máxima no es «like for like» (la base máxima creció +8,1 % entre 2024 y 2026; los salarios ≈+7-8 % [PROY aproximada]).

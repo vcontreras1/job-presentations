@@ -1,3 +1,6 @@
 # Descargas oficiales en bruto: se pueden volver a obtener (ver datos/LEEME.md)
 datos/brutos/
 __pycache__/
+
+# Insumos con derechos de terceros (Vecdis, FounderNest): el repositorio es público
+privado/

@@ -1,9 +1,9 @@
 # Insumos
 
-Deja aquí el material que quieras que use el estudio:
+**Este repositorio es público.** No subas aquí material con derechos de terceros ni documentos internos: pégalo en el chat o guárdalo en `privado/`, que está excluida de git.
 
-- **Informe de Vecdis** (PDF, Word o PowerPoint): verificaré sus cifras clave y señalaré qué le falta.
-- **Listados de FounderNest y TrendWatching** (exportaciones, capturas o un CSV con nombre, web y descripción de cada startup o tendencia): entrarán en la sección de soluciones de la presentación interna.
-- **Identidad corporativa** (colores, logotipo, plantilla), si quieres que las presentaciones la sigan.
+Material que puede usar el estudio:
 
-También puedes pegar el contenido directamente en el chat.
+- **Informes externos** (por ejemplo, el de Vecdis): se verifican sus cifras y se señala qué falta. La verificación está en la pestaña «Verificación de Vecdis» del documento.
+- **Listados de FounderNest y TrendWatching** (exportaciones o CSV con nombre, web y descripción): se evalúan en la pestaña «Soluciones y startups».
+- **Identidad corporativa** (colores, logotipo, plantilla), si las presentaciones deben seguirla.
