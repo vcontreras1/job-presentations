@@ -1,0 +1,46 @@
+{
+  "_nota": "Parámetros provisionales: los marcados con verificado=false se sustituyen por los valores contrastados en research_notes/.",
+  "cotizacion": {
+    "base_max_anual": {"valor": 61214.40, "fuente": "Base máxima 2026: 5.101,20 €/mes × 12 (OIE, GA-P, Finanzas)", "verificado": true},
+    "tipo_trabajador_total": {"valor": 0.065, "fuente": "Contingencias comunes 4,70 % + desempleo 1,55 % + FP 0,10 % + MEI 0,15 % (2026)", "verificado": false},
+    "solidaridad_tramos": {"valor": [
+      {"hasta_pct_sobre_base_max": 10, "tipo_total": 0.0115},
+      {"hasta_pct_sobre_base_max": 50, "tipo_total": 0.0125},
+      {"hasta_pct_sobre_base_max": null, "tipo_total": 0.0146}
+    ], "fuente": "Cuota de solidaridad 2026 (RDL 2/2023)", "verificado": false},
+    "solidaridad_parte_trabajador": {"valor": 0.166, "fuente": "Reparto como contingencias comunes (4,70/28,30)", "verificado": false}
+  },
+  "pension": {
+    "maxima_anual": {"valor": 47034.40, "fuente": "Pensión máxima 2026: 3.359,60 €/mes × 14 (OIE, Instituto Santalucía)", "verificado": true}
+  },
+  "irpf": {
+    "escala": {"valor": [
+      {"hasta": 12450, "tipo": 0.19},
+      {"hasta": 20200, "tipo": 0.24},
+      {"hasta": 35200, "tipo": 0.30},
+      {"hasta": 60000, "tipo": 0.37},
+      {"hasta": 300000, "tipo": 0.45},
+      {"hasta": null, "tipo": 0.47}
+    ], "fuente": "Escala general estatal + autonómica supletoria (aproximación; cada comunidad tiene su escala)", "verificado": false},
+    "minimo_personal": {"valor": 5550, "fuente": "Art. 57 LIRPF", "verificado": false},
+    "minimo_personal_65": {"valor": 6700, "fuente": "Art. 57 LIRPF (5.550 + 1.150)", "verificado": false},
+    "otros_gastos": {"valor": 2000, "fuente": "Art. 19.2.f LIRPF", "verificado": false},
+    "reduccion_trabajo": {"valor": {
+      "umbral_1": 14852, "umbral_2": 17673.52, "umbral_3": 19747.5,
+      "importe_max": 7302, "pendiente_1": 1.75, "importe_tramo_2": 2364.34, "pendiente_2": 1.14
+    }, "fuente": "Art. 20 LIRPF (redacción vigente desde 2024)", "verificado": false}
+  },
+  "supuestos": {
+    "crecimiento_real_salario": {"valor": 0.01, "fuente": "Supuesto del modelo: salario real +1 % anual en los últimos 25 años de carrera", "verificado": true},
+    "anos_jubilacion": {"valor": 20, "fuente": "Esperanza de vida a los 67 (INE, por verificar)", "verificado": false},
+    "interes_real_jubilacion": {"valor": 0.01, "fuente": "Supuesto del modelo", "verificado": true},
+    "rentabilidad_real_acumulacion": {"valor": 0.02, "fuente": "Supuesto del modelo", "verificado": true}
+  },
+  "perfiles": [
+    {"nombre": "Salario mínimo", "salario_bruto_anual": 16576, "anos_cotizados": 40, "gasto_hogar_referencia_anual": 25000},
+    {"nombre": "Técnico/a de sucursal", "salario_bruto_anual": 35000, "anos_cotizados": 40, "gasto_hogar_referencia_anual": 25000},
+    {"nombre": "Director/a de sucursal", "salario_bruto_anual": 55000, "anos_cotizados": 40, "gasto_hogar_referencia_anual": 25000},
+    {"nombre": "Mando intermedio", "salario_bruto_anual": 80000, "anos_cotizados": 40, "gasto_hogar_referencia_anual": 25000},
+    {"nombre": "Directivo/a", "salario_bruto_anual": 150000, "anos_cotizados": 40, "gasto_hogar_referencia_anual": 25000}
+  ]
+}

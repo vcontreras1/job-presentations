@@ -1,0 +1,26 @@
+archivo,cifra,confianza,contraste,contraste ids,estado,fuente primaria,fuente primaria id,periodo,valor
+00_fuentes_coordinacion,% población 65+,A,C1,,coincide,C2,,2026,"21,1-21,2 %"
+00_fuentes_coordinacion,% población 65+ en 2036,A,tabla 36666,,coincide,C2,,2036,"25,0-25,2 %"
+00_fuentes_coordinacion,Ocupados totales,A,"C10, C11",,coincide,C9,,2T-2026,22.779.000
+00_fuentes_coordinacion,Tasa de paro,A,C11,,coincide,C9,,2T-2026,"9,87 %"
+00_fuentes_coordinacion,Ocupados 55+,A,C9 (total),,coincide,C10,,2T-2026,"5.009.000 (22,0 %)"
+00_fuentes_coordinacion,Tasa de empleo 55-64,A,C12,,rango,C10,,2025-2026,"63,3 % (EPA 2T-2026); 62,4 % (Eurostat 2025)"
+00_fuentes_coordinacion,Esperanza de vida a los 65,A,"C1 (19,8 H / 23,6 M)",,coincide,C5,,2024,"21,87 años"
+00_fuentes_coordinacion,Vida saludable a los 65,B,C8,,rango,C7,,2023-2024,"10,3-12,5 años"
+00_fuentes_coordinacion,Edad media de jubilación,B,C19,,rango,C18,,2026,"65,2-65,5 años"
+00_fuentes_coordinacion,Pensión máxima 2026,A,C21,,coincide,C20,,2026,"3.359,60 €/mes"
+00_fuentes_coordinacion,Base máxima 2026,A,C20,,coincide,C22,,2026,"5.101,20 €/mes"
+03_empresas_prejubilaciones,ERE Telefónica 2025: salidas mínimas firmadas,A,,"S09, S04 (4.539 antes del ajuste final), S08 (4.554)",coincide (la cifra baja de 4.554→4.539→4.525 según la fecha),,S03,Firma 22-dic-2025,4.525 (CEV 3.765 + GBU 585 + Movistar+ 175)
+03_empresas_prejubilaciones,ERE Telefónica 2025: salidas iniciales,A,,"S08, S01 («más de 6.000»)",coincide,,S09,17-nov a 1-dic-2025,6.088
+03_empresas_prejubilaciones,ERE Telefónica 2025: provisión,B (CNMV no abierta),,S09,coincide (S09 trae errata «5.000 M€» en el cuerpo),,S03 (cita CNMV),Comunicado CNMV 22-dic-2025,≈2.500 M€ antes de impuestos (2.300 + 200)
+03_empresas_prejubilaciones,ERE Telefónica 2025: renta 1969-71,A,,"S04, S01",coincide,,S03,Dic-2025,68 % hasta 63 años; 38 % de 63 a 65
+03_empresas_prejubilaciones,ERE Telefónica 2025: voluntarios aceptados CEV,B,,(Forbes México reproduce la misma nota; sin contraste independiente),una sola fuente (EFE),,S05,4-feb-2026,4.772 aceptados; 352 rechazados; 5.124 candidatos
+03_empresas_prejubilaciones,ERE Telefónica 2024: salidas,A,,"S07, S04, S03, S02 (3.420)",coincide (3.420 vs 3.421: redondeo),,S06,Dic-2023/ene-2024,3.421 (final) vs 5.124 (inicial)
+03_empresas_prejubilaciones,ERE Telefónica 2024: provisión,A,,"S04, S03, S02",coincide,,S06,Ene-2024,1.300 M€ antes de impuestos; 380.000 €/trabajador; ahorro ≈285 M€/año
+03_empresas_prejubilaciones,ERE Telefónica 2024: renta nacidos ≤1963 hasta 65 años,B,,S07,discrepa (34 % vs 35 %),,S06,Dic-2023,"34 % (S07) frente a 35 % (S06, S03 para ERE 2025)"
+03_empresas_prejubilaciones,Aportación al Tesoro: umbral de plantilla,A,,"S50 (RD 1484/2012, art. 2)",coincide (resúmenes secundarios hablan de 500: umbral de 2011),,S49,Vigente a 13-oct-2026,Más de 100 trabajadores (empresa o grupo)
+03_empresas_prejubilaciones,Aportación al Tesoro: escala de tipos,A,,—,una sola fuente (BOE),,S49,Vigente,60 %-100 %
+03_empresas_prejubilaciones,Convenio especial 55+: obligación empresarial,B,,"S56 (TS 25-feb-2026 remite a Orden TAS/2865/2003), S48 (art. 51.9)",coincide,,S52,Orden 2019,Hasta 63 años (61 si causas económicas)
+03_empresas_prejubilaciones,Edad legal de jubilación 2026,A,,—,una sola fuente (BOE); contraste con BBVA Mi Jubilación en snippet,,S54,2026,66 años y 10 meses (65 con ≥38a3m)
+03_empresas_prejubilaciones,"Coeficiente jubilación anticipada voluntaria, 24 vs 12 meses (<38a6m)",A,,"S10/S12 (cálculo sindical Santander 21 %→5,5 %)",coincide,,S54,Vigente,"21,00 % vs 5,50 %"
+03_empresas_prejubilaciones,Exención IRPF por despido colectivo,A,,—,una sola fuente (DGT),,S53,Vigente 2026,"33 días/año, máx. 24 mensualidades, tope 180.000 €"
