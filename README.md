@@ -7,8 +7,8 @@ Estudio para la dirección de una aseguradora o entidad de previsión. Analiza l
 | Entregable | Formato | Enlace |
 |---|---|---|
 | Documento de investigación | Claude Doc (exportable a Word, PDF o Google Docs), con las pestañas «Soluciones y startups» y «Verificación de Vecdis» | [La década del relevo](https://claude.ai/artifact/WNE1h4gaa4pxMNdoae6JUA) |
-| Presentación interna (extensa) | Slides de Claude (descargable a PowerPoint o PDF) | pendiente |
-| Presentación ejecutiva (10 min) | Slides de Claude (descargable a PowerPoint o PDF) | pendiente |
+| Presentación interna (extensa) | Slides de Claude (descargable a PowerPoint o PDF): 59 diapositivas en 12 bloques de contexto, problema y solución, con lectura y fuente en cada gráfico, y un bloque de socios y pilotos | [La década del relevo · presentación interna](https://claude.ai/artifact/82ET11kZWJTSiG5QkLZ8JM) |
+| Presentación ejecutiva (10 min) | Slides de Claude (descargable a PowerPoint o PDF): 14 diapositivas neutrales para la dirección, con notas del orador de unas 1.300 palabras | [La década del relevo · presentación ejecutiva](https://claude.ai/artifact/FFmDh57UcLmpGiWQsveaPt) |
 
 Los enlaces son privados: solo los abre quien tenga acceso o con quien se compartan desde claude.ai.
 

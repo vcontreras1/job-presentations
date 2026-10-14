@@ -9,12 +9,12 @@ Cada capítulo responde a una pregunta y sigue el mismo orden: **contexto** (qu�
 **Contexto**
 
 1. **La década del relevo ya empezó.** Entre 2026 y 2035 cumplirán 65 años 6,9 millones de personas. Los mayores de 55 son ya el 22 % de los ocupados y el grupo que más crece.
-2. **Vivimos más y con salud, pero salimos antes que Europa.** A los 65 quedan 21,9 años de vida, 12,5 sin limitaciones. Trabaja el 62,4 % de las personas de 55 a 64 años (66,4 % en la UE) y casi siete de cada diez se jubilan justo en la edad ordinaria.
+2. **Vivimos más y con salud, pero salimos antes que Europa.** A los 65 quedan 21,9 años de vida, 12,5 sin limitaciones. Trabaja el 62,4 % de las personas de 55 a 64 años (66,4 % en la UE) y casi siete de cada diez se jubilan con la edad ordinaria.
 3. **Los sénior no son un bloque.** Son el 30,7 % de los asalariados mejor pagados, pero 302.000 están en el decil más bajo. Y el 56,6 % de los parados de 55 o más años lleva más de un año buscando empleo.
 
 **Problema**
 
-4. **Prejubilar sigue siendo la respuesta por defecto, y es cara.** Santander ofrece en 2026 el 74-76 % del salario desde los 55, y el ERE de Telefónica de 2024 costó unos 380.000 € por persona. La evidencia no respalda que cada salida abra un puesto joven: el tapón está en los ascensos.
+4. **Prejubilar sigue siendo la respuesta por defecto, y es cara.** Santander ofrece en 2026 el 74-76 % del salario desde los 55, y el despido colectivo (ERE) de Telefónica de 2024 costó unos 380.000 € por persona. La evidencia no respalda que cada salida abra un puesto joven: el tapón está en los ascensos.
 5. **El convenio de seguros premia salir en la edad ordinaria.** Paga un incentivo solo ese mes, retira el seguro de aportación definida a quien se queda y permite jubilar a los 68. La ley y la demografía empujan en sentido contrario.
 6. **La pensión cubre al técnico y deja corto al directivo.** Sustituye el 87-97 % del sueldo neto hasta unos 60.000 € y cae al 39 % con 150.000 €. Ese directivo necesitaría ahorrar 3.049 € al mes desde los 45.
 7. **El colchón complementario no existe para la mayoría.** Solo el 15 % de los ocupados tiene plan de empresa, las aportaciones individuales cayeron un 63 % y en 2025 se firmaron 499 hipotecas inversas.
@@ -31,9 +31,9 @@ Cada capítulo responde a una pregunta y sigue el mismo orden: **contexto** (qu�
 
 ### Contexto: el baby boom llega a la jubilación
 
-Entre 2026 y 2035 cumplirán 65 años 6,9 millones de personas, entre 632.000 y 741.000 al año. La ola no toca techo hasta 2042, con 815.000.
+Entre 2026 y 2035 cumplirán 65 años 6,9 millones de personas, entre 632.000 y 731.000 al año. La ola no toca techo hasta 2042, con 815.000.
 
-&#91;embedded content: INE, Proyecciones de Población 2026-2076, tabla 36643, escenario central · 2026-2050\]
+*[Gráfico en el documento: INE, Proyecciones de Población 2026-2076, tabla 36643, escenario central · 2026-2050]*
 
 Son los nacidos entre 1958 y 1977: 14,6 millones de residentes, casi tres de cada diez. Por la inmigración, las generaciones más numerosas que viven aquí nacieron a mediados de los setenta, y por eso el pico llega tan tarde.
 
@@ -44,8 +44,8 @@ El mercado laboral ya lo refleja. Los mayores de 55 son el 22,0 % de los ocupado
 - **El relevo propio no alcanza.** Hoy hay 5,5 millones de jóvenes de 15 a 24 años por 7,1 millones de personas de 55 a 64: 77 por cada 100 que se acercan a la jubilación. Entre los ocupados la distancia es mayor: 1,27 millones de 20 a 24 años frente a 1,86 millones de 60 a 64.
 - **La inmigración cubre el hueco, si llega.** El INE proyecta 6,9 millones de personas de 25 a 34 años en 2036, 1,3 millones más que los jóvenes de 15 a 24 de hoy. Sin saldo migratorio, la población caería de 49,3 a 31,7 millones en 2076.
 - **Otra estimación llega a la misma conclusión.** La Fundación Adecco calcula 5,3 millones de jubilaciones de mayores de 55 en diez años, frente a 1,8 millones de jóvenes que se incorporan y unos 2,5 millones de inmigrantes que buscarán empleo.
-- **La escasez ya se nota.** El 78 % de las empresas españolas tiene dificultades para cubrir puestos en 2026, seis puntos más que la media mundial (72 %).
-- **Y aprieta por el lado de las pensiones.** Por cada 100 personas de 16 a 64 años habrá 39 mayores de 64 en 2036, frente a 32 hoy y 52 en 2050.
+- **La escasez ya se nota.** En 2026, el 78 % de las empresas españolas tiene dificultades para cubrir sus vacantes, el triple que hace diez años (26 %). No es solo falta de personas, porque el paro ronda el 10 %: faltan perfiles concretos (IA, ingeniería, producción, ventas) y competencias como la adaptabilidad o el trabajo en equipo. Importa para este estudio por dos razones: cada experto que sale sin un relevo preparado es más difícil de sustituir y, con menos jóvenes entrando, es previsible que el desajuste crezca.
+- **Y presiona las pensiones.** Hoy hay unas 3 personas en edad de trabajar (de 16 a 64 años) por cada mayor de 64. En 2036 habrá 2,5 y en 2050, menos de 2. Como las pensiones se pagan con las cotizaciones de quienes trabajan, con menos personas en edad de trabajar por cada mayor hace falta que trabaje más gente, durante más años, o que las pensiones crezcan menos. La AIReF prevé que la pensión media suba del 68,4 % del salario medio en 2025 a un máximo del 70,5 % en 2030 y baje después al 60,2 % en 2050 (capítulo 5).
 
 Para una aseguradora el problema es triple: se jubilan sus técnicos, envejece su red de agentes y millones de clientes pasan a necesitar ordenar su renta.
 
@@ -66,7 +66,9 @@ Fuentes: [INE, Proyecciones de Población 2026-2076](https://www.ine.es/dyngs/Pr
 
 ## 2. Vivimos más y trabajamos menos años de los que podríamos
 
-**La pregunta.** ¿Pueden los mayores trabajar más años, y lo hacen? **Para qué la necesitamos:** para saber si alargar la vida laboral es una opción real para la plantilla o solo una cifra de las pensiones.
+**La pregunta.** ¿Pueden los mayores trabajar más años, y lo hacen?
+
+**Para qué la pregunta:** para saber si alargar la vida laboral es una opción real para la plantilla o solo una cifra de las pensiones.
 
 ### Contexto: más años de vida, y con salud
 
@@ -78,31 +80,50 @@ La salud y el trabajo van juntos: declara buena salud el 69,8 % de los ocupados 
 
 ### Problema: España sale antes que sus vecinos, y la distancia crece con la edad
 
-&#91;embedded content: INE, EPA (tablas de ocupados y población por edad), 2T de cada año · 2008-2026\]
+*[Gráfico en el documento: INE, EPA (tablas de ocupados y población por edad), 2T de cada año · 2008-2026]*
 
-En 2010 España estaba a la par de la UE en empleo de 55 a 64 años (43,5 % frente a 44,7 %). En 2025 la distancia es de cuatro puntos (62,4 % frente a 66,4 %), y crece después de los 60. En Japón trabaja el 53,6 % de las personas de 65 a 69 años (2024); en España, el 12,4 %.
+España sale del mercado laboral antes que los países de su entorno. En 2025 trabajaba el 62,4 % de las personas de 55 a 64 años, frente al 66,4 % de la UE. La distancia se abre después de los 60: de 60 a 64 años trabaja el 53 % en España y casi el 70 % en Alemania, Países Bajos o Suecia.
 
-| País (2025) | Empleo 55-59 | Empleo 60-64 | Empleo 65-69 | Tiempo parcial 55-64 |
-| --- | --- | --- | --- | --- |
-| España | 70,9 % | 53,0 % | 12,4 % | 11,1 % |
-| UE-27 | 77,3 % | 55,0 % | 17,3 % | 19,4 % |
-| Alemania | 83,1 % | 67,6 % | 23,2 % | 31,9 % |
-| Países Bajos | 81,9 % | 69,5 % | 29,5 % | 39,9 % |
-| Suecia | 85,1 % | 71,1 % | 31,1 % | 19,0 % |
+| País (2025) | Empleo 55-59 | Empleo 60-64 | Empleo 65-69 |
+| --- | --- | --- | --- |
+| España | 70,9 % | 53,0 % | 12,4 % |
+| UE-27 | 77,3 % | 55,0 % | 17,3 % |
+| Alemania | 83,1 % | 67,6 % | 23,2 % |
+| Países Bajos | 81,9 % | 69,5 % | 29,5 % |
+| Suecia | 85,1 % | 71,1 % | 31,1 % |
 
-- **La salida sigue anclada en la edad ordinaria.** De las 247.161 jubilaciones de enero a agosto de 2026, el 68,9 % llegó en la edad ordinaria y solo el 11,6 % demoró el retiro (4,8 % en 2019). La edad media de acceso subió de 64,4 años en 2019 a 65,4.
-- **La anticipada vuelve a crecer.** Bajó del 40 % de las altas en 2019 al 26,9 % en 2025, pero en 2026 vuelve a rondar el 31 %. La voluntaria, la que más penalizó la reforma, sube del 15,8 % al 17,9 %.
-- **Casi nadie se retira poco a poco.** Solo el 11 % de los ocupados de 55 a 64 años trabaja a tiempo parcial, frente al 19 % de la UE y el 40 % de Países Bajos.
+**Por qué mirar a Japón.** Su población ya tiene la edad que tendrá la española hacia 2050: allí el 29,4 % tiene 65 años o más (2025), y en España será el 30,2 % en 2050, según el INE. Lo que hoy ocurre en Japón anticipa lo que viene aquí.
+
+En Japón trabaja el 53,6 % de las personas de 65 a 69 años (2024); en España, el 12,4 %.
+
+- **Causa.** El Gobierno japonés lo atribuye a la falta de mano de obra y a la ley. Desde 2013, las empresas deben dar empleo hasta los 65 a quien quiera seguir, y desde 2021 deben esforzarse por ofrecerlo hasta los 70 (en 2024 lo hacía el 32 %). Además, la edad para cobrar la pensión pública subió de 60 a 65 años mientras muchas empresas mantenían la jubilación obligatoria a los 60: ese hueco había que cubrirlo trabajando.
+- **Problema.** La mayoría de las empresas (el 69,6 %) cumple recontratando a los 60 con contratos temporales, menos responsabilidad y un sueldo un 24 % más bajo. Se trabaja más años, pero en peores condiciones.
+- **Solución para España.** Obligar a ofrecer continuidad sí alarga la vida laboral, pero debe ir con roles definidos (mentor, experto) y jornada pactada, no solo con recortes de sueldo. Y como aquí la pensión sustituye casi todo el sueldo neto de un salario medio (capítulo 5), alargar dependerá de que seguir trabajando compense.
+
+* **Pocos alargan su vida laboral.** En 2026, solo el 11,6 % de los nuevos jubilados retrasó la jubilación para cobrar más. La mayoría se retira justo al cumplir la edad ordinaria.
+* **La anticipada vuelve a crecer.** Jubilarse antes de la edad ordinaria pasó del 40 % de las altas en 2019 al 27 % en 2025, pero en 2026 vuelve al 31 %.
+
+**La jornada parcial, la pasarela que en España casi no existe.** En Europa, a medida que se acerca la jubilación, mucha gente reduce jornada en vez de dejar de trabajar. En España no: el peso de la jornada parcial apenas cambia hasta los 65 años. La tabla muestra, de cada 100 ocupados de cada edad, cuántos trabajan a jornada completa y cuántos a jornada parcial (2025).
+
+| País | 25 a 49 años (completa / parcial) | 55 a 64 años (completa / parcial) | 65 años o más (completa / parcial) |
+| --- | --- | --- | --- |
+| España | 87 / 13 | 89 / 11 | 77 / 23 |
+| UE-27 | 85 / 15 | 81 / 19 | 50 / 50 |
+| Alemania | 72 / 28 | 68 / 32 | 31 / 69 |
+| Países Bajos | 65 / 35 | 60 / 40 | 33 / 67 |
+| Suecia | 85 / 15 | 81 / 19 | 27 / 73 |
+
+Además, en España la jornada parcial de los mayores no siempre se elige: el 44 % de quienes la tienen entre los 55 y los 64 años la acepta porque no encuentra una completa. **Por qué importa:** sin una pasarela de jornada reducida, la salida es de todo o nada y la experiencia se va de golpe. Las vías para construirla (jubilación parcial, flexible y activa) están en el capítulo 9.
 
 ### Solución: abrir la puerta a una salida gradual
 
-- **Las reglas ya lo permiten.** Desde 2022 demorar la jubilación da un 4 % más de pensión por año. La jubilación activa deja cobrar del 45 % al 100 % de la pensión mientras se trabaja. Desde el 28 de agosto de 2026, la flexible admite jornadas del 33 % al 80 % y premia con un 15-25 % más a quien vuelve tras seis meses jubilado. El capítulo 9 detalla cada vía y su coste.
-- **Los países con más empleo sénior combinan dos cosas.** Tiempo parcial para retirarse poco a poco, como Países Bajos, y reglas que empujan a las empresas, como Japón: allí la ley obliga a garantizar empleo hasta los 65 y, desde 2021, a esforzarse por ofrecerlo hasta los 70.
+- **Las reglas ya lo permiten.** Desde 2022 demorar la jubilación da un 4 % más de pensión por año. La jubilación activa deja cobrar del 45 % al 100 % de la pensión mientras se trabaja, según los años de demora. Desde el 28 de agosto de 2026, la flexible admite jornadas del 33 % al 80 % y premia con un 15-25 % más a quien vuelve tras seis meses jubilado. El capítulo 9 detalla cada vía y su coste.
+- **Los países con más empleo sénior combinan dos cosas.** Jornada parcial para retirarse poco a poco, como en Países Bajos, y reglas que obligan a las empresas a ofrecer continuidad, como en Japón.
 - **La empresa decide en qué condiciones.** Jornada, rol y adaptación del puesto pesan tanto como la ley. Lo que dicen los datos sobre bajas, formación y costes de una plantilla sénior está en el capítulo 8.
 
 **Señales a vigilar.** El peso de la jubilación anticipada tras el repunte de 2026, el uso de la flexible con el Real Decreto 416/2026 y la tasa de empleo de 60 a 64 años.
 
-Fuentes: [INE, esperanza de vida al nacer (tabla 1414)](https://www.ine.es/jaxiT3/Tabla.htm?t=1414) · [INE, esperanza de vida a los 65 (tabla 48883)](https://www.ine.es/jaxiT3/Tabla.htm?t=48883) · [Eurostat, años de vida saludable a los 65 (tepsr\_sp320)](https://ec.europa.eu/eurostat/databrowser/view/tepsr_sp320/default/table) · [Eurostat, salud percibida por situación laboral (hlth\_silc\_01)](https://ec.europa.eu/eurostat/databrowser/view/hlth_silc_01/default/table) · [Eurostat, tasas de empleo por edad (lfsa\_ergan)](https://ec.europa.eu/eurostat/databrowser/view/lfsa_ergan/default/table) · [Eurostat, tiempo parcial por edad (lfsa\_eppga)](https://ec.europa.eu/eurostat/databrowser/view/lfsa_eppga/default/table) · [Seguridad Social, pensiones de septiembre de 2026](https://revista.seg-social.es/-/pensiones-septiembre-2026) · [Seguridad Social, pensiones de diciembre de 2025](https://revista.seg-social.es/-/la-seguridad-social-abona-en-diciembre-10-4-millones-de-pensiones-a-9-4-millones-de-pensionistas) · [El Independiente, repunte de las anticipadas (junio de 2026)](https://www.elindependiente.com/economia/2026/06/22/jubilaciones-anticipadas-crecen-rompen-tendencia-perseguia-reforma-pensiones-escriva/amp/) · [Andersen, Real Decreto 416/2026](https://es.andersen.com/nota-legal-real-decreto-416-2026-principales-novedades-en-materia-de-jubilacion-flexible-y-jubilacion-demorada/) · [The Peninsula (Xinhua), empleo de mayores en Japón](https://s.thepeninsula.qa/article/14/09/2025/elderly-account-for-record-294-pct-of-japans-population) · [Ius Laboris, empleo hasta los 70 en Japón](https://iuslaboris.com/insights/expanded-employment-opportunities-for-older-people-in-japan/)
+Fuentes: [INE, esperanza de vida al nacer (tabla 1414)](https://www.ine.es/jaxiT3/Tabla.htm?t=1414) · [INE, esperanza de vida a los 65 (tabla 48883)](https://www.ine.es/jaxiT3/Tabla.htm?t=48883) · [Eurostat, años de vida saludable a los 65 (tepsr\_sp320)](https://ec.europa.eu/eurostat/databrowser/view/tepsr_sp320/default/table) · [Eurostat, salud percibida por situación laboral (hlth\_silc\_01)](https://ec.europa.eu/eurostat/databrowser/view/hlth_silc_01/default/table) · [Eurostat, tasas de empleo por edad (lfsa\_ergan)](https://ec.europa.eu/eurostat/databrowser/view/lfsa_ergan/default/table) · [Eurostat, tiempo parcial por edad (lfsa\_eppga)](https://ec.europa.eu/eurostat/databrowser/view/lfsa_eppga/default/table) · [INE, ocupados a tiempo parcial por motivo y edad (tabla 65152)](https://www.ine.es/jaxiT3/Tabla.htm?t=65152) · [Seguridad Social, pensiones de septiembre de 2026](https://revista.seg-social.es/-/pensiones-septiembre-2026) · [Seguridad Social, pensiones de diciembre de 2025](https://revista.seg-social.es/-/la-seguridad-social-abona-en-diciembre-10-4-millones-de-pensiones-a-9-4-millones-de-pensionistas) · [El Independiente, repunte de las anticipadas (junio de 2026)](https://www.elindependiente.com/economia/2026/06/22/jubilaciones-anticipadas-crecen-rompen-tendencia-perseguia-reforma-pensiones-escriva/amp/) · [Andersen, Real Decreto 416/2026](https://es.andersen.com/nota-legal-real-decreto-416-2026-principales-novedades-en-materia-de-jubilacion-flexible-y-jubilacion-demorada/) · [PwC, compatibilidad entre jubilación y trabajo (enero de 2025)](https://periscopiofiscalylegal.pwc.es/wp-content/uploads/2025/01/MEDIDAS-PARA-FACILITAR-LA-COMPATIBILIDAD-ENTRE-JUBILACION-Y-TRABAJO.pdf) · [INE, Proyecciones de Población 2026-2076](https://www.ine.es/dyngs/Prensa/PROP20262076.htm) · [The Peninsula (Xinhua), empleo de mayores en Japón](https://s.thepeninsula.qa/article/14/09/2025/elderly-account-for-record-294-pct-of-japans-population) · [Ius Laboris, empleo hasta los 70 en Japón](https://iuslaboris.com/insights/expanded-employment-opportunities-for-older-people-in-japan/) · [JILPT, el retiro de los trabajadores mayores en Japón (2025)](https://www.jil.go.jp/english/events/seminar/20250326/documents/Japan_PPT.pdf) · [Nippon.com, la recontratación de los mayores de 60](https://www.nippon.com/en/in-depth/a04202/)
 
 ## 3. El mapa: quiénes son los sénior y dónde está cada generación
 
@@ -114,11 +135,11 @@ La vida laboral española tiene tres tramos. Hasta los 29 años se estudia o se 
 
 Entre los 60 y los 64 años trabaja algo más de la mitad (54 %). El resto se reparte entre hogar y cuidados (15 %), jubilación anticipada o prejubilación (10 %), otras pensiones (7 %), incapacidad (6 %) y paro (6 %). A los 65-69 años, el 63 % ya está jubilado.
 
-&#91;embedded content: INE, EPA 2T-2026: población por relación con la actividad, tipo de jornada, tiempo de búsqueda y clase de inactividad · cálculo propio\]
+*[Gráfico en el documento: INE, EPA 2T-2026: población por relación con la actividad, tipo de jornada, tiempo de búsqueda y clase de inactividad · cálculo propio]*
 
 Los ocupados de 55 o más años son 5,0 millones: 2,69 millones de hombres y 2,32 millones de mujeres. Trabajan sobre todo en servicios y ventas (1,01 millones), como profesionales científicos e intelectuales (0,89 millones) y en ocupaciones elementales (0,69 millones). Ocupan el 29 % de los puestos de dirección.
 
-Con la edad cambian las formas de trabajar. La cuenta propia pasa del 14,0 % de todos los ocupados al 35,3 % a los 65-69 años y al 71,4 % desde los 70. El tiempo parcial, del 10,6 % a los 55-59 al 43,8 % desde los 70.
+Con la edad cambian las formas de trabajar: quien sigue trabajando es, cada vez más, autónomo o empresario. La cuenta propia (trabajar para el propio negocio, no como asalariado) pasa del 14,0 % de todos los ocupados al 35,3 % a los 65-69 años y al 71,4 % desde los 70. Tiene dos explicaciones: nadie les fija una edad de salida y su pensión es más baja (1.063 € al mes de media, frente a 1.735 € de los asalariados del Régimen General; capítulo 5). En el seguro es el caso de los agentes que siguen con su cartera.
 
 ### Problema: un colectivo muy desigual, con salidas que no se ven
 
@@ -152,7 +173,7 @@ Fuentes: [INE, EPA 2T-2026](https://www.ine.es/dyngs/Prensa/EPA2T26.htm) · [INE
 
 ### Contexto: la prejubilación sigue siendo la herramienta de ajuste
 
-Las grandes empresas siguen usando la prejubilación: salidas desde los 52-61 años con rentas del 57 % al 88 % del salario hasta los 63-65. Estos son los grandes planes de los últimos años, de más reciente a más antiguo:
+Las grandes empresas siguen usando la prejubilación: salidas desde los 52-61 años con rentas del 57 % al 88 % del salario hasta los 63-65. Suelen hacerse dentro de un ERE (expediente de regulación de empleo): el despido colectivo que una empresa negocia con los representantes de los trabajadores cuando alega causas económicas, técnicas, organizativas o de producción. Estos son los grandes planes de los últimos años, de más reciente a más antiguo:
 
 | Empresa (sector) | Año | Salidas | Edad mínima | Renta hasta la jubilación | Coste anunciado |
 | --- | --- | --- | --- | --- | --- |
@@ -254,15 +275,15 @@ Un hogar medio gastó 35.101 € en 2025, unos 2.925 € al mes, y un tercio se 
 | Pareja sin hijos | 36.334 € | 3.028 € |
 | Pareja con dos hijos | 47.563 € | 3.964 € |
 
-El lugar pesa mucho: un hogar mayor gasta 22.210 € al año en Extremadura y 35.657 € en el País Vasco. Como referencia de mínimos, el umbral de pobreza de una persona sola es de 12.220 € al año (1.018 € al mes).
+El lugar pesa mucho: un hogar mayor gasta 22.210 € al año en Extremadura y 35.657 € en el País Vasco. Como referencia de mínimos, el umbral de pobreza de una persona sola (el 60 % de la renta mediana) es de 12.220 € al año (1.018 € al mes).
 
-La vivienda es el gran colchón. El 82,4 % de los mayores de 65 vive en una vivienda propia sin hipoteca, y por eso su tasa de pobreza baja del 16,4 % al 9,3 % al imputar el alquiler que no pagan.
+La vivienda es el gran colchón. El 82,4 % de los mayores de 65 vive en una vivienda propia sin hipoteca, y por eso su tasa de pobreza baja del 16,4 % al 9,3 % si se cuenta como ingreso el alquiler que se ahorran.
 
 ### Problema: la pensión cubre bien el salario medio y mal los extremos
 
-&#91;embedded content: Cálculo propio con parámetros de 2026 (BOE, Seguridad Social, IRPF) · investigacion/modelo\_perfiles\]
+*[Gráfico en el documento: Cálculo propio con parámetros de 2026 (BOE, Seguridad Social, IRPF) · investigacion/modelo\_perfiles]*
 
-Con una carrera completa, la pensión pública sustituye entre el 87 % y el 97 % del salario neto hasta unos 60.000 € brutos al año. Por encima, el tope de 3.359,60 € al mes la hunde: 68 % a 80.000 € y 39 % a 150.000 €.
+Con una carrera completa, la pensión pública sustituye entre el 87 % y el 97 % del salario neto hasta unos 60.000 € brutos al año. Por encima, el tope de la pensión máxima (3.359,60 € al mes en 14 pagas) hace que caiga: 68 % con 80.000 € y 39 % con 150.000 €.
 
 El modelo calcula la pensión de cada perfil con 40 años cotizados y la compara con su salario neto. La brecha es lo que falta cada mes para mantener el nivel de vida; el ahorro, lo que habría que apartar para cubrirla durante 20 años de jubilación. Los salarios son orientativos y se apoyan en el convenio de seguros y en la media del sector (53.051 €, ICEA).
 
@@ -281,19 +302,19 @@ Supuestos: salario real creciente un 1 % anual en los últimos 25 años, jubilac
 
 - **Para no caer en la pobreza**, casi cualquier carrera completa basta. Incluso la pensión mínima sin cónyuge (936 € × 14, unos 1.092 € al mes en 12 pagas) supera por poco el umbral.
 - **Para cubrir el gasto medio de un mayor que vive solo** (1.919 € al mes) hace falta haber cobrado unos 31.000 € brutos con carrera completa. Superan ese salario entre uno de cada cuatro y uno de cada tres asalariados.
-- **Para mantener el nivel de vida** (el 80 % del sueldo neto o más) basta una carrera completa hasta unos 65.000 €. Por encima de la base máxima, entre el 5 % y el 7 % de los asalariados, la caída es fuerte.
+- **Para mantener el nivel de vida** (el 80 % del sueldo neto o más) basta una carrera completa hasta unos 65.000 €. Por encima de la base máxima (61.214 € al año, el sueldo máximo por el que se cotiza), donde están entre el 5 % y el 7 % de los asalariados, la caída es fuerte.
 - **Una pareja que vive de una sola pensión** no alcanza el gasto medio de una pareja mayor (unos 3.030 € al mes) ni con la pensión máxima, que deja 2.995 € netos. Con dos pensiones, basta con que cada miembro haya cobrado unos 22.800 €.
 
 **La realidad de los 6,8 millones de jubilados.** Pocas carreras son completas, y las brechas se concentran en los mismos grupos:
 
-- El 17,3 % de las pensiones de jubilación necesita complemento a mínimos; entre las mujeres, el 26,1 %.
+- El 17,3 % de las pensiones de jubilación necesita el complemento a mínimos, la ayuda que sube las pensiones bajas hasta un mínimo legal; entre las mujeres, el 26,1 %.
 - La pensión media de las mujeres (1.271 €) es un 29 % inferior a la de los hombres (1.798 €). El complemento por brecha de género, de 76,7 € al mes de media, solo cierra una parte.
 - Los autónomos cobran de media 1.063 €, frente a 1.735 € en el Régimen General.
 - Solo un 4,7 % de las pensiones de jubilación está en la máxima, mientras que el 27,8 % supera los 2.000 € al mes.
 
-**Lo que viene.** La AIReF dio por cumplida en mayo de 2026 la regla de gasto de la reforma, por poco: un gasto neto medio del 13,0 % del PIB hasta 2050, frente a un límite del 13,3 %. Aun así, la pensión media pasará del 68,4 % del salario medio en 2025 a un máximo del 70,5 % en 2030 y bajará al 60,2 % en 2050. La deuda pública llegaría al 123 % del PIB a políticas constantes.
+**Lo que viene.** La AIReF, la autoridad fiscal independiente, concluyó en mayo de 2026 que el gasto en pensiones cumple por poco el límite que fijó la reforma: un 13,0 % del PIB de media hasta 2050, frente a un máximo del 13,3 %. Aun así, la pensión media, que subirá del 68,4 % del salario medio en 2025 a un máximo del 70,5 % en 2030, bajará después al 60,2 % en 2050: cada jubilado cobrará menos en relación con lo que gana quien trabaja. Y la deuda pública llegaría al 123 % del PIB si no cambian las políticas.
 
-Para los salarios altos, la distancia crece: la pensión máxima sube el IPC más 0,115 puntos al año y la base máxima, el IPC más 1,2. Además, la cuota de solidaridad (1,15-1,46 % en 2026, 5,5-7 % en 2045) y el mecanismo de equidad intergeneracional (0,9 puntos en 2026, 1,2 desde 2029) se cotizan sin generar pensión.
+Para los salarios altos, la distancia crecerá: el sueldo máximo por el que se cotiza sube cada año más deprisa (IPC más 1,2 puntos) que la pensión máxima (IPC más 0,115). Además, hay dos cotizaciones nuevas que no dan más pensión: la cuota de solidaridad, que grava el sueldo por encima de la base máxima (del 1,15-1,46 % en 2026 al 5,5-7 % en 2045), y el MEI (mecanismo de equidad intergeneracional), un recargo para reforzar el sistema (0,9 puntos en 2026 y 1,2 desde 2029).
 
 ### Solución: tres grupos, tres respuestas
 
@@ -315,9 +336,9 @@ Fuentes: [Seguridad Social, pensiones de septiembre de 2026](https://revista.seg
 
 ### Contexto: un ahorro pequeño y estancado
 
-Los planes de pensiones suman 145.107 M€ (junio de 2026), unos 18.100 € por partícipe, y solo el 15 % de los ocupados tiene un plan de empresa. La rebaja fiscal de 2021-2022 hundió un 63 % las aportaciones a planes individuales.
+Los planes de pensiones suman 145.107 M€ (junio de 2026), unos 18.100 € por persona con plan: repartidos en 20 años de jubilación, unos 75 € al mes. Y solo el 15 % de los ocupados tiene un plan de empresa. La reducción de la ventaja fiscal en 2021-2022 hundió un 63 % las aportaciones a planes individuales.
 
-&#91;embedded content: Inverco, Informe 2025 y estadísticas trimestrales · 2020-2025\]
+*[Gráfico en el documento: Inverco, Informe 2025 y estadísticas trimestrales · 2020-2025]*
 
 El límite deducible de los planes individuales bajó de 8.000 € a 2.000 € en 2021 y a 1.500 € en 2022. Las aportaciones individuales pasaron de 4.314 M€ en 2020 a 1.585 M€ en 2025; las de empresa crecieron solo 437 M€. Inverco calcula que entre 2021 y 2025 se dejaron de aportar más de 12.500 M€.
 
@@ -332,14 +353,14 @@ España está en el grupo de países con poco ahorro previsional privado, como F
 | España | 10,8 % |
 | Alemania | 6,4 % |
 
-### Problema: el segundo pilar no llega a la mayoría y el tercero se encogió
+### Problema: los planes de empresa no llegan a la mayoría y el ahorro individual se encogió
 
 - **Cobertura de empresa baja y estancada.** Solo el 27 % de las empresas tiene algún sistema de previsión para su plantilla, la misma cifra que hace nueve años. Cubre al 15 % de los ocupados, frente al 28 % en Europa; en el País Vasco, al 25 %.
-- **Los nuevos planes crecen en partícipes, no en saldo.** El plan sectorial de la construcción tiene 899.091 partícipes y 250 M€; el de autónomos, 76.577 partícipes y 475 M€. El saldo medio de los planes simplificados ronda los 810 €.
+- **Los nuevos planes suman personas, no ahorro.** El plan de la construcción, creado por convenio, tiene 899.091 partícipes pero solo 250 M€, unos 280 € por persona. De media, cada plan simplificado (los nuevos planes para sectores y autónomos) acumula unos 810 €, muy lejos de lo que haría falta para cubrir una brecha de pensión.
 - **Donde más ha arraigado, aporta poco.** El Gobierno Vasco calcula que un plan de empleo medio daría unos 300 € brutos al mes a los 67 años: el 15 % de la pensión media vasca.
-- **Los fondos públicos de empleo no han despegado.** Cuatro años después de la Ley 12/2022, el foro de expertos del Instituto Santalucía los califica de «prácticamente inexistentes».
-- **El propio sector asegurador tiene un segundo pilar modesto y condicionado.** El seguro de aportación definida del convenio aporta el 2,5 % del sueldo base desde 2027, y lo acumulado se pierde si la jubilación no llega en la edad ordinaria. La compensación vitalicia antigua solo cubre a quien entró antes de 1986.
-- **La vivienda casi no se usa como renta.** En 2025 se firmaron 499 hipotecas inversas en España, frente a unas 88.000 en Reino Unido, aunque el 82,4 % de los mayores de 65 tiene casa propia sin hipoteca.
+- **Los fondos públicos de empleo no han despegado.** Cuatro años después de la Ley 12/2022, que los creó para que pymes y autónomos tuvieran planes baratos, el foro de expertos del Instituto Santalucía los califica de «prácticamente inexistentes».
+- **El propio sector asegurador tiene un plan de empresa modesto y condicionado.** El seguro de aportación definida del convenio aporta el 2,5 % del sueldo base desde 2027, y lo acumulado se pierde si la jubilación no llega en la edad ordinaria. La compensación vitalicia antigua solo cubre a quien entró antes de 1986.
+- **La vivienda casi no se usa como renta.** En 2025 se firmaron en España 499 hipotecas inversas (un préstamo sobre la casa que se cobra como renta y se devuelve con la herencia), frente a unas 88.000 en Reino Unido, aunque el 82,4 % de los mayores de 65 tiene casa propia sin hipoteca.
 
 ### Solución: llevar el ahorro a la nómina y la vivienda a la renta
 
@@ -365,7 +386,7 @@ Fuentes: [Inverco, estadísticas de fondos de pensiones](https://www.inverco.es/
 
 En España sigue trabajando el 7,6 % de los pensionistas de 50 a 74 años, frente al 21,4 % en la UE. Son sobre todo directivos, profesionales y autónomos.
 
-&#91;embedded content: Eurostat, módulo EU-LFS 2023 sobre pensiones (lfso\_23pens12) · 50-74 años\]
+*[Gráfico en el documento: Eurostat, módulo EU-LFS 2023 sobre pensiones (lfso\_23pens12) · 50-74 años]*
 
 El módulo de 2023 de la Encuesta de Población Activa preguntó a quienes siguieron trabajando por su motivo principal:
 
@@ -453,7 +474,7 @@ En las familias, el problema es que el apoyo entre generaciones tapa huecos que 
 | Medir y certificar la gestión de la edad | Saber dónde están los riesgos y la brecha | Sello Age-Friendly Employer (Genera Talent) o distintivo mástalentosenior (Fundación Másfamilia) | Auditoría externa |
 | Acompañar la salida con propósito | Que jubilarse no sea un corte en seco | Bankinter con SECOT: voluntariado y programa de transición | Voluntariado de jubilados en entidades sociales |
 | Redes de reempleo y formación | Dar destino a quien sale y abrir la entrada a mayores de 45 | Generación SAVIA; Fundación Generation | 45.000 profesionales en SAVIA; 83 % de inserción a seis meses en Generation |
-| Prevención y adaptación del puesto | Bajas menos frecuentes pero más largas | Programas de retorno tras la baja y ergonomía | Coherente con los datos de AMAT |
+| Prevención y adaptación del puesto | Bajas menos frecuentes pero más largas | Programas de retorno tras la baja y ergonomía | Coherente con los datos de bajas de AMAT, la asociación de mutuas |
 
 Para las familias, las palancas son tres: ahorrar antes (capítulo 5), usar la vivienda como renta (capítulo 6) y apoyar a quien cuida desde el trabajo, con flexibilidad y servicios de cuidado como beneficio. Una aseguradora está en los dos lados: como empleadora de cuidadores y como proveedora de seguros de dependencia y servicios de cuidado. La pestaña «Soluciones y startups» evalúa los proveedores disponibles.
 
@@ -476,7 +497,7 @@ Fuentes: [Merca2, Mapfre y el talento sénior (2024)](https://www.merca2.es/2024
 | Activa | Compatibilizar trabajo y pensión tras demorar al menos un año | Se cobra del 45 % (un año de demora) al 100 % (cinco años) de la pensión, con cinco puntos más por año en activa |
 | Flexible (desde el 28 de agosto de 2026) | Jubilado que vuelve a trabajar entre el 33 % y el 80 % de la jornada, también por cuenta propia | La pensión baja en proporción a la jornada, con un 15-25 % extra si vuelve tras seis meses jubilado |
 
-Alrededor ha nacido un mercado de trabajo por proyecto para sénior. Krisalidas, presentada en octubre de 2025, conecta a profesionales de más de 50 con empresas por proyectos. Generación SAVIA reúne a 45.000 profesionales y el interim management ya tiene asociación y congreso propios.
+Alrededor ha nacido un mercado de trabajo por proyecto para sénior. Krisalidas, presentada en octubre de 2025, conecta a profesionales de más de 50 con empresas por proyectos. Generación SAVIA reúne a 45.000 profesionales y el interim management (directivos contratados por un tiempo para un proyecto) ya tiene asociación y congreso propios.
 
 ### Problema: entre el todo y la nada hay demanda, pero poco uso
 
@@ -503,7 +524,7 @@ La pestaña «Soluciones y startups» evalúa las plataformas y proveedores para
 
 **Señales a vigilar.** El uso de la jubilación flexible tras el Real Decreto 416/2026, el peso de la demora, la tasa de supervivencia del emprendimiento sénior y la edad de la red de agentes.
 
-Fuentes: [Seguridad Social, pensiones de septiembre de 2026](https://revista.seg-social.es/-/pensiones-septiembre-2026) · [CCOO, jubilación parcial con contrato de relevo (junio de 2026)](https://ccoo.umh.es/files/2026/06/CCOO-Informa-Universidad-FE-no-38-jubilacion-parcial-con-contrato-de-relevo.pdf) · [Andersen, Real Decreto 416/2026](https://es.andersen.com/nota-legal-real-decreto-416-2026-principales-novedades-en-materia-de-jubilacion-flexible-y-jubilacion-demorada/) · [BOE, LGSS](https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724) · [Abdón Pedrajas, jubilación activa y parcial](https://abdonpedrajas.com/pics/eventos/boletin--nuevas-reglas-de-jubilacion-activa-y-parcialv2.pdf) · [Bolsamanía, VI Barómetro del Consumidor Sénior](https://www.bolsamania.com/noticias/economia/economia--mas-de-la-mitad-de-los-mayores-de-55-anos-ayuda-economicamente-a-familiares-o-allegados-segun-un-estudio--21558767.html) · [El Español, emprendimiento sénior (Fundación Mapfre, 2026)](https://www.elespanol.com/invertia/disruptores/ecosistema-startup/startups/20260608/emprendimiento-senior-despunta-repunta-espana-mayores-anos-consolidan-negocios/1003744274750_0.html) · [UPTA, autónomos mayores de 55 (2024)](https://upta.es/wp-content/uploads/2024/07/PROPUESTA-COMPATIBILIDAD-100-JUBILACION-Y-TCP_170724.pdf) · [BOE, convenio de seguros 2025-2028](https://boe.es/boe/dias/2026/07/23/pdfs/BOE-A-2026-16077.pdf) · [The Objective, presentación de Krisalidas](https://theobjective.com/economia/empleo/2025-10-27/krisalidas-plataforma-impulsa-talento-senior/) · [Endesa, Generación SAVIA (2024)](https://www.endesa.com/es/prensa/sala-de-prensa/noticias/social/empleo-seniors-1-de-cada-3-parados-tiene-50-anos) · [AIME, Asociación Interim Management España](https://interimspain.org/) · [Intro Personeel, el generatiepact 80-90-100](https://www.intropersoneel.nl/blog/wat-is-het-generatiepact-en-wat-zijn-de-voor-en-nadelen/) · [Ius Laboris, empleo hasta los 70 en Japón](https://iuslaboris.com/insights/expanded-employment-opportunities-for-older-people-in-japan/) · [eldiario.es, ERE de Telefónica](https://www.eldiario.es/tecnologia/telefonica-pone-precio-ere-ofrece-68-salario-mayores-55-anos_1_12812160.html)
+Fuentes: [Seguridad Social, pensiones de septiembre de 2026](https://revista.seg-social.es/-/pensiones-septiembre-2026) · [CCOO, jubilación parcial con contrato de relevo (junio de 2026)](https://ccoo.umh.es/files/2026/06/CCOO-Informa-Universidad-FE-no-38-jubilacion-parcial-con-contrato-de-relevo.pdf) · [Andersen, Real Decreto 416/2026](https://es.andersen.com/nota-legal-real-decreto-416-2026-principales-novedades-en-materia-de-jubilacion-flexible-y-jubilacion-demorada/) · [BOE, LGSS](https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724) · [Abdón Pedrajas, jubilación activa y parcial](https://abdonpedrajas.com/pics/eventos/boletin--nuevas-reglas-de-jubilacion-activa-y-parcialv2.pdf) · [PwC, compatibilidad entre jubilación y trabajo (enero de 2025)](https://periscopiofiscalylegal.pwc.es/wp-content/uploads/2025/01/MEDIDAS-PARA-FACILITAR-LA-COMPATIBILIDAD-ENTRE-JUBILACION-Y-TRABAJO.pdf) · [Bolsamanía, VI Barómetro del Consumidor Sénior](https://www.bolsamania.com/noticias/economia/economia--mas-de-la-mitad-de-los-mayores-de-55-anos-ayuda-economicamente-a-familiares-o-allegados-segun-un-estudio--21558767.html) · [El Español, emprendimiento sénior (Fundación Mapfre, 2026)](https://www.elespanol.com/invertia/disruptores/ecosistema-startup/startups/20260608/emprendimiento-senior-despunta-repunta-espana-mayores-anos-consolidan-negocios/1003744274750_0.html) · [UPTA, autónomos mayores de 55 (2024)](https://upta.es/wp-content/uploads/2024/07/PROPUESTA-COMPATIBILIDAD-100-JUBILACION-Y-TCP_170724.pdf) · [BOE, convenio de seguros 2025-2028](https://boe.es/boe/dias/2026/07/23/pdfs/BOE-A-2026-16077.pdf) · [The Objective, presentación de Krisalidas](https://theobjective.com/economia/empleo/2025-10-27/krisalidas-plataforma-impulsa-talento-senior/) · [Endesa, Generación SAVIA (2024)](https://www.endesa.com/es/prensa/sala-de-prensa/noticias/social/empleo-seniors-1-de-cada-3-parados-tiene-50-anos) · [AIME, Asociación Interim Management España](https://interimspain.org/) · [Intro Personeel, el generatiepact 80-90-100](https://www.intropersoneel.nl/blog/wat-is-het-generatiepact-en-wat-zijn-de-voor-en-nadelen/) · [Ius Laboris, empleo hasta los 70 en Japón](https://iuslaboris.com/insights/expanded-employment-opportunities-for-older-people-in-japan/) · [eldiario.es, ERE de Telefónica](https://www.eldiario.es/tecnologia/telefonica-pone-precio-ere-ofrece-68-salario-mayores-55-anos_1_12812160.html)
 
 ## 10. 2031-2036: lo que viene con la demografía y la IA
 
@@ -511,7 +532,7 @@ Fuentes: [Seguridad Social, pensiones de septiembre de 2026](https://revista.seg
 
 ### Contexto: lo que ya está escrito
 
-**La demografía apenas tiene incertidumbre.** En 2036 las personas de 55 a 64 años serán el 24,1 % de la población de 16 a 64 (22,0 % hoy), y las de 65 a 69, 3,6 millones (2,9 hoy). Solo por la edad, con las tasas de empleo de hoy, los mayores de 55 pasarían de cerca del 22 % al 23,9 % de los ocupados. Cedefop calcula que más de cuatro de cada cinco vacantes en España hasta 2035 serán para reponer a quien se jubila o cambia de empleo.
+**La demografía apenas tiene incertidumbre.** En 2036 las personas de 55 a 64 años serán el 24,1 % de la población de 16 a 64 (22,0 % hoy), y las de 65 a 69, 3,6 millones (2,9 hoy). Solo por la edad, con las tasas de empleo de hoy, los mayores de 55 pasarían de cerca del 22 % al 23,9 % de los ocupados. Cedefop, la agencia europea de formación profesional, calcula que más de cuatro de cada cinco vacantes en España hasta 2035 serán para reponer a quien se jubila o cambia de empleo.
 
 **La IA ya está en las empresas, pero casi siempre en pruebas.** A comienzos de 2025, el 21,1 % de las empresas españolas de diez o más empleados usaba IA (12,4 % en 2023). En seguros, el 77 % de las aseguradoras españolas usa IA y big data y casi dos tercios de las europeas usan IA generativa, pero solo el 10 % la ha escalado con éxito.
 
@@ -527,7 +548,7 @@ Fuentes: [Seguridad Social, pensiones de septiembre de 2026](https://revista.seg
 
 ### Solución: prepararse para cuatro futuros
 
-&#91;embedded content: Escenarios 2031-2036 · dos ejes, cuatro futuros; ocupados de 55+ en 2036: cálculo propio con INE\]
+*[Gráfico en el documento: Escenarios 2031-2036 · dos ejes, cuatro futuros; ocupados de 55+ en 2036: cálculo propio con INE]*
 
 Las señales de hoy apuntan cerca del centro, algo inclinadas hacia el relevo asistido, pero con dos fuerzas en contra. La vida laboral se alarga despacio (la demora llega al 11,6 % de las altas) mientras la jubilación anticipada repunta (31 %). La IA complementa más de lo que sustituye en el sector, pero en EE. UU. ya frena la entrada de jóvenes.
 
@@ -615,7 +636,7 @@ Fuentes: las de los capítulos 1 a 10.
 
 **Cómo se ha verificado.** Cada cifra clave se ha contrastado en su fuente original (INE, Eurostat, OCDE, Seguridad Social, BOE) o, si no la hay, en una segunda fuente independiente. Las encuestas privadas se citan con su método, y se advierte cuando su muestra no es representativa.
 
-**Cuántas fuentes.** El documento cita 142 páginas de 77 sitios distintos. Con las notas de trabajo, el registro suma 239 fuentes de 117 sitios.
+**Cuántas fuentes.** El documento cita 146 páginas de 80 sitios distintos. Con las notas de trabajo, el registro suma 243 fuentes de 120 sitios.
 
 **Cifras de Vecdis.** De 86 cifras de sus diapositivas, 53 coinciden con su fuente original y 18 con algún matiz; las demás se corrigen o no se usan. Detalle en Verificación de Vecdis.
 
