@@ -1,0 +1,55 @@
+{
+  "_nota": "Parámetros 2026 verificados en BOE, Seguridad Social, INE y AEAT (ver research_notes/.../06_pensiones_hogar.md y 05_sector_asegurador.md). Los perfiles salariales son orientativos.",
+  "cotizacion": {
+    "base_max_anual": {"valor": 61214.40, "fuente": "Base máxima 2026: 5.101,20 €/mes × 12 (Orden PJC/297/2026, art. 2.1)", "verificado": true},
+    "tipo_trabajador_total": {"valor": 0.065, "fuente": "Contingencias comunes 4,70 % + MEI 0,15 % + desempleo 1,55 % + FP 0,10 % (Orden PJC/297/2026)", "verificado": true},
+    "solidaridad_tramos": {"valor": [
+      {"hasta_pct_sobre_base_max": 10, "tipo_total": 0.0115},
+      {"hasta_pct_sobre_base_max": 50, "tipo_total": 0.0125},
+      {"hasta_pct_sobre_base_max": null, "tipo_total": 0.0146}
+    ], "fuente": "Cuota de solidaridad 2026: 1,15 / 1,25 / 1,46 % (art. 19 bis LGSS; Orden PJC/297/2026, art. 17)", "verificado": true},
+    "solidaridad_parte_trabajador": {"valor": 0.166, "fuente": "Reparto como contingencias comunes (4,70/28,30)", "verificado": true}
+  },
+  "pension": {
+    "maxima_anual": {"valor": 47034.40, "fuente": "Pensión máxima 2026: 3.359,60 €/mes × 14 (RDL 3/2026, art. 1)", "verificado": true},
+    "minima_sin_conyuge_anual": {"valor": 13106.80, "fuente": "Pensión mínima de jubilación 65+ sin cónyuge 2026: 936,20 €/mes × 14 (RD 241/2026)", "verificado": true}
+  },
+  "irpf": {
+    "escala": {"valor": [
+      {"hasta": 12450, "tipo": 0.19},
+      {"hasta": 20200, "tipo": 0.24},
+      {"hasta": 35200, "tipo": 0.30},
+      {"hasta": 60000, "tipo": 0.37},
+      {"hasta": 300000, "tipo": 0.45},
+      {"hasta": null, "tipo": 0.47}
+    ], "fuente": "Escala estatal (art. 63 LIRPF) + autonómica supletoria; cada comunidad tiene la suya", "verificado": true},
+    "minimo_personal": {"valor": 5550, "fuente": "Art. 57 LIRPF", "verificado": true},
+    "minimo_personal_65": {"valor": 6700, "fuente": "Art. 57 LIRPF (5.550 + 1.150)", "verificado": true},
+    "otros_gastos": {"valor": 2000, "fuente": "Art. 19.2.f LIRPF", "verificado": true},
+    "reduccion_trabajo": {"valor": {
+      "umbral_1": 14852, "umbral_2": 17673.52, "umbral_3": 19747.5,
+      "importe_max": 7302, "pendiente_1": 1.75, "importe_tramo_2": 2364.34, "pendiente_2": 1.14
+    }, "fuente": "Art. 20 LIRPF (redacción RDL 4/2024)", "verificado": true},
+    "deduccion_smi": {"valor": {"importe": 590.89, "limite_pleno": 17094, "limite_cero": 20048.45},
+      "fuente": "DA 61.ª LIRPF (RDL 5/2026): un salario de SMI no paga IRPF", "verificado": true}
+  },
+  "supuestos": {
+    "crecimiento_real_salario": {"valor": 0.01, "fuente": "Supuesto del modelo: salario real +1 % anual en los últimos 25 años de carrera", "verificado": true},
+    "anos_jubilacion": {"valor": 20, "fuente": "Esperanza de vida a los 67 años: 20,23 (INE, tablas de mortalidad 2024)", "verificado": true},
+    "interes_real_jubilacion": {"valor": 0.01, "fuente": "Supuesto del modelo", "verificado": true},
+    "rentabilidad_real_acumulacion": {"valor": 0.02, "fuente": "Supuesto del modelo", "verificado": true}
+  },
+  "referencias_hogar": {
+    "umbral_pobreza_1_adulto": {"valor": 12220.4, "fuente": "INE, ECV 2025 (ingresos 2024)", "verificado": true},
+    "gasto_unipersonal_65": {"valor": 23024, "fuente": "INE, EPF 2025: persona sola de 65 o más años", "verificado": true},
+    "gasto_pareja_65": {"valor": 36400, "fuente": "INE, EPF 2025: estimación a partir de «persona o pareja de 65+» (29.577 €/hogar, 1,49 personas)", "verificado": false}
+  },
+  "perfiles": [
+    {"nombre": "Salario mínimo", "salario_bruto_anual": 17094, "anos_cotizados": 40, "gasto_hogar_referencia_anual": 23024},
+    {"nombre": "Técnico/a de sucursal", "salario_bruto_anual": 36000, "anos_cotizados": 40, "gasto_hogar_referencia_anual": 23024},
+    {"nombre": "Media del sector asegurador", "salario_bruto_anual": 53051, "anos_cotizados": 40, "gasto_hogar_referencia_anual": 23024},
+    {"nombre": "Director/a de sucursal", "salario_bruto_anual": 60000, "anos_cotizados": 40, "gasto_hogar_referencia_anual": 23024},
+    {"nombre": "Mando intermedio", "salario_bruto_anual": 80000, "anos_cotizados": 40, "gasto_hogar_referencia_anual": 23024},
+    {"nombre": "Directivo/a", "salario_bruto_anual": 150000, "anos_cotizados": 40, "gasto_hogar_referencia_anual": 23024}
+  ]
+}

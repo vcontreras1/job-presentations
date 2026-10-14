@@ -1,0 +1,88 @@
+archivo,cifra,confianza,contraste,contraste ids,estado,fuente primaria,fuente primaria id,periodo,valor
+00_fuentes_coordinacion,% población 65+,A,C1,,coincide,C2,,2026,"21,1-21,2 %"
+00_fuentes_coordinacion,% población 65+ en 2036,A,tabla 36666,,coincide,C2,,2036,"25,0-25,2 %"
+00_fuentes_coordinacion,Ocupados totales,A,"C10, C11",,coincide,C9,,2T-2026,22.779.000
+00_fuentes_coordinacion,Tasa de paro,A,C11,,coincide,C9,,2T-2026,"9,87 %"
+00_fuentes_coordinacion,Ocupados 55+,A,C9 (total),,coincide,C10,,2T-2026,"5.009.000 (22,0 %)"
+00_fuentes_coordinacion,Tasa de empleo 55-64,A,C12,,rango,C10,,2025-2026,"63,3 % (EPA 2T-2026); 62,4 % (Eurostat 2025)"
+00_fuentes_coordinacion,Esperanza de vida a los 65,A,"C1 (19,8 H / 23,6 M)",,coincide,C5,,2024,"21,87 años"
+00_fuentes_coordinacion,Vida saludable a los 65,B,C8,,rango,C7,,2023-2024,"10,3-12,5 años"
+00_fuentes_coordinacion,Edad media de jubilación,B,C19,,rango,C18,,2026,"65,2-65,5 años"
+00_fuentes_coordinacion,Pensión máxima 2026,A,C21,,coincide,C20,,2026,"3.359,60 €/mes"
+00_fuentes_coordinacion,Base máxima 2026,A,C20,,coincide,C22,,2026,"5.101,20 €/mes"
+03_empresas_prejubilaciones,ERE Telefónica 2025: salidas mínimas firmadas,A,,"S09, S04 (4.539 antes del ajuste final), S08 (4.554)",coincide (la cifra baja de 4.554→4.539→4.525 según la fecha),,S03,Firma 22-dic-2025,4.525 (CEV 3.765 + GBU 585 + Movistar+ 175)
+03_empresas_prejubilaciones,ERE Telefónica 2025: salidas iniciales,A,,"S08, S01 («más de 6.000»)",coincide,,S09,17-nov a 1-dic-2025,6.088
+03_empresas_prejubilaciones,ERE Telefónica 2025: provisión,B (CNMV no abierta),,S09,coincide (S09 trae errata «5.000 M€» en el cuerpo),,S03 (cita CNMV),Comunicado CNMV 22-dic-2025,≈2.500 M€ antes de impuestos (2.300 + 200)
+03_empresas_prejubilaciones,ERE Telefónica 2025: renta 1969-71,A,,"S04, S01",coincide,,S03,Dic-2025,68 % hasta 63 años; 38 % de 63 a 65
+03_empresas_prejubilaciones,ERE Telefónica 2025: voluntarios aceptados CEV,B,,(Forbes México reproduce la misma nota; sin contraste independiente),una sola fuente (EFE),,S05,4-feb-2026,4.772 aceptados; 352 rechazados; 5.124 candidatos
+03_empresas_prejubilaciones,ERE Telefónica 2024: salidas,A,,"S07, S04, S03, S02 (3.420)",coincide (3.420 vs 3.421: redondeo),,S06,Dic-2023/ene-2024,3.421 (final) vs 5.124 (inicial)
+03_empresas_prejubilaciones,ERE Telefónica 2024: provisión,A,,"S04, S03, S02",coincide,,S06,Ene-2024,1.300 M€ antes de impuestos; 380.000 €/trabajador; ahorro ≈285 M€/año
+03_empresas_prejubilaciones,ERE Telefónica 2024: renta nacidos ≤1963 hasta 65 años,B,,S07,discrepa (34 % vs 35 %),,S06,Dic-2023,"34 % (S07) frente a 35 % (S06, S03 para ERE 2025)"
+03_empresas_prejubilaciones,Aportación al Tesoro: umbral de plantilla,A,,"S50 (RD 1484/2012, art. 2)",coincide (resúmenes secundarios hablan de 500: umbral de 2011),,S49,Vigente a 13-oct-2026,Más de 100 trabajadores (empresa o grupo)
+03_empresas_prejubilaciones,Aportación al Tesoro: escala de tipos,A,,—,una sola fuente (BOE),,S49,Vigente,60 %-100 %
+03_empresas_prejubilaciones,Convenio especial 55+: obligación empresarial,B,,"S56 (TS 25-feb-2026 remite a Orden TAS/2865/2003), S48 (art. 51.9)",coincide,,S52,Orden 2019,Hasta 63 años (61 si causas económicas)
+03_empresas_prejubilaciones,Edad legal de jubilación 2026,A,,—,una sola fuente (BOE); contraste con BBVA Mi Jubilación en snippet,,S54,2026,66 años y 10 meses (65 con ≥38a3m)
+03_empresas_prejubilaciones,"Coeficiente jubilación anticipada voluntaria, 24 vs 12 meses (<38a6m)",A,,"S10/S12 (cálculo sindical Santander 21 %→5,5 %)",coincide,,S54,Vigente,"21,00 % vs 5,50 %"
+03_empresas_prejubilaciones,Exención IRPF por despido colectivo,A,,—,una sola fuente (DGT),,S53,Vigente 2026,"33 días/año, máx. 24 mensualidades, tope 180.000 €"
+05_sector_asegurador,Empleo directo en aseguradoras,B,,"S28 (≈49.000, 2016), S29 (47.686, 2017), S30 (>52.000, sin fecha): solo snippets","una sola fuente abierta; series antiguas compatibles (47,7-52 mil)",,S01,2024-2025,51.417 trabajadores
+05_sector_asegurador,% mujeres en plantilla,A,,S08,coincide,,S01,2024-2025,"54,6% (2024-25); 54,4% (2024)"
+05_sector_asegurador,Contratos indefinidos,B,,"S28 (≈97% en 2016, snippet)",coincide,,S01,2025,"98,3%"
+05_sector_asegurador,Salario medio y mediana del sector,B,,S08 (serie 2024); INE EES no recuperada,coincide en la serie; no contrastado con INE,,S01,2024-2025,53.051 € / 43.549 € (2025); 49.929 € / 42.320 € (2024)
+05_sector_asegurador,Retribución media de plantilla Mapfre (grupo),A,,S14,coincide,,S13,2021-2025,"57 mil € (+5,56%); 45 mil € en 2021"
+05_sector_asegurador,% ocupados >45 años en seguros,C,,ninguno (informe original de Randstad no abierto),una sola fuente,,S04,3T-2023,"55,7% (57% banca y seguros)"
+05_sector_asegurador,% plantilla >50 años en GCO,B,,cálculo propio sobre S17,"una sola fuente (primaria, perímetro grupo)",,S17,2023-2024,"39,8% (2024); 40,9% (2023)"
+05_sector_asegurador,"Mapfre: edad media, % ≥55, % ≥41",B,,"S16 (26% >50 años, fecha no confirmada)",rango (perímetros y fechas distintos),,S15,2023 (grupo),"42,2 años; 11,7%; 51,4%"
+05_sector_asegurador,Edad media de la plantilla del sector (2016),C,,ninguno,una sola fuente (solo snippet),,S28,2016,"43,6 hombres / 40,7 mujeres"
+05_sector_asegurador,Edad media / % 55+ del sector 2024-2026,,,,hueco,,,,sin dato
+05_sector_asegurador,Convenio: vigencia y publicación,A,,ninguno (norma oficial),una sola fuente oficial,,S02,2026,2025-2028; BOE 23-jul-2026
+05_sector_asegurador,Incremento salarial 2025,A,,"S03 (tabla 2025 = 1,035 × tabla 2024, cálculo propio)",coincide,,S02,2025,"+3,5% sobre tabla definitiva 2024"
+05_sector_asegurador,Tabla salarial 2025 por nivel,A,,S03 (coherencia por ratio),"coincide (BOE: 14.498,70 vs 14.498,25 calculado en N8)",,S02,2025,"N1 2.697,25 … N8 966,55 €/mes"
+05_sector_asegurador,Incremento 2026 a cuenta,A,,ninguno,una sola fuente oficial; tabla definitiva pendiente,,S02,2026,"0,8% (resto según PIB/IPC)"
+05_sector_asegurador,Jubilación forzosa 68 años; incentivo 1 mensualidad/5 años (máx. 10),A,,ninguno,una sola fuente oficial,,S02,2025-2028,art. 66
+05_sector_asegurador,Agentes exclusivos,A,,"S19, S20",coincide,,S18,2023-2025,50.241 (21-nov-2025); 53.306 (31-dic-2024); 55.853 (31-dic-2023)
+05_sector_asegurador,Agentes exclusivos personas físicas,A,,S19,coincide,,S18,2025; 2024; 2023,39.424; 42.366; 44.712
+05_sector_asegurador,Agentes vinculados,A,,"S19, S20",coincide,,S18,2023-2025,323 (2025); 347 (2024); 332 (2023)
+05_sector_asegurador,Operadores de banca-seguros,A,,S19 (7 y 38 en 2024),coincide,,S18,21-nov-2025,7 exclusivos + 38 vinculados
+05_sector_asegurador,Corredores y corredurías,A,,S20,coincide; excluye ≈2.000 de registros autonómicos,,S18,2023-2025,3.445 (2025); 3.688 (2024); 3.721 (2023)
+05_sector_asegurador,Edad media de mediadores; % >55/60; relevo; venta de carteras,,,,hueco,,,,sin dato
+05_sector_asegurador,Aseguradoras españolas con IA y big data,C,,ninguno,"una sola fuente (patronal, ICEA)",,S08,2024,77%; 17 modelos de media
+05_sector_asegurador,EIOPA: IA en general,B,,ninguno,una sola fuente (cita de EIOPA en un documento de EIOPA),,S12,informe mayo-2024,50% no vida / 24% vida (+30% / +39% en 3 años)
+05_sector_asegurador,EIOPA: IA generativa,A,,"S11, S09",coincide (65% frente a «casi dos tercios»),,S10,encuesta 2025 (informe 2-feb-2026),"casi dos tercios la usan; 65% implantada; 23% en 3 años; 347 aseguradoras, 25 países"
+05_sector_asegurador,Casos de uso GenAI,A,,S11,coincide,,S10,2025,64% internos / 36% de cara al cliente
+05_sector_asegurador,Madurez de IA en no vida (global),C,,ninguno,"una sola fuente (consultora, global)",,S26,2026,60% en exploración o PoC; 47% sin cambio de jornada; 67% escasez de competencias
+05_sector_asegurador,Allianz Partners: recorte,B,,"S24, S25",coincide en el rango de Europa; el ERE lo niega la empresa; cifra de España de origen sindical,,S23,dic-2025 y jul-2026,1.500-1.800 en Europa; 320 en España (20% de plantilla)
+05_sector_asegurador,AXA: ERE 2023,C,,ninguno,una sola fuente (en negociación; resultado final no verificado),,S05,mar-2023,179 salidas; 105 prejubilaciones (≥58 años y ≥20 años de antigüedad); 74 externalizados
+05_sector_asegurador,Mapfre: plan de bajas 2021,B,,ninguno (cita el informe financiero 1S-2021),una sola fuente,,S06,jul-2021,≈250 empleados; provisión ≈75 M€
+05_sector_asegurador,Seguros que instrumentan compromisos por pensiones,B,,S08,coincide (serie anual),,S01,2024-2025,25.897 M€; 794.032 asegurados (2025); 26.089 M€; 778.608 (2024)
+05_sector_asegurador,100% de aseguradoras complementa pensiones de su plantilla; 52% seguro del convenio / 48% otros,B,,"S08 (55% / 45% en 2024), S02 (art. 67)",coincide,,S01,2025,
+05_sector_asegurador,Retribución presidente Mapfre,B,,S13 (informe oficial; cifras individuales no contrastadas fila a fila),una sola fuente verificada de forma indirecta,,S14,2025,"2,74 M€ (−10,1%)"
+05_sector_asegurador,Director comercial de seguros,C,,ninguno,una sola fuente,,S04,2024 (informe de dic-2023),67.000-77.000 €
+05_sector_asegurador,Salario base de director de sucursal; bandas de directivos del sector; salario CNAE 65 (INE),,,,hueco,,,,sin dato
+05_sector_asegurador,Proyecto «Ageing» de Mapfre,B,,S15,coincide,,S16,2020-2023,desde 2020; >55 años; ranking Haz 2022 (23 puntos)
+07_prevision_complementaria,Patrimonio total planes de pensiones,A,,"S02 (135.851 M€ mar-2026 + 9.256 = 145.107), S03 (137.988 dic-2025)",coincide (consistente internamente),,S01,30-jun-2026,145.107 M€
+07_prevision_complementaria,Patrimonio planes de pensiones,A,,"S05, S08 (cita Inverco)",coincide,,S03,31-dic-2025,"137.988 M€ (+4,7 %)"
+07_prevision_complementaria,Cuentas de partícipe totales,A,,"S02 (10.522.106 mar-2026), S03 (10,4 M dic-2025)",coincide (suma por sistema difiere en 200),,S01,30-jun-2026,10.600.335
+07_prevision_complementaria,Partícipes distintos estimados,B,,"S02, S03 (misma fuente)",una sola fuente (Inverco; estimación),,S01,2025-2026,~8 millones
+07_prevision_complementaria,Cuentas individual / empleo / asociado,A,,S02 (7.230.376 / 3.241.340 / 50.390),coincide,,S01,30-jun-2026,7.222.617 / 3.329.971 / 47.947
+07_prevision_complementaria,Planes de empleo simplificados: partícipes y patrimonio,A,,"S02 (1.086.294; 819 M€), S03 (975.668; 725 M€)",coincide (serie creciente; el «+88.607 en el año» de S01 es trimestral),,S01,30-jun-2026,1.174.911; 952 M€; 50 planes
+07_prevision_complementaria,Aportaciones totales,A,,"S01 (1S-2026), S04",coincide,,S03,2020-2025,3.252 M€ (2025); 5.562 M€ (2020)
+07_prevision_complementaria,Aportaciones individuales,A,,"S06 (cualitativo), S04",coincide,,S03,2020-2025,4.314 → 1.585 M€ (−63 %)
+07_prevision_complementaria,Aportaciones empleo,A,,S01 (817 M€ 1S-2026),coincide,,S03,2020-2025,1.223 → 1.660 M€ (+36 %)
+07_prevision_complementaria,Importe «no aportado» por el recorte de límite,B,,S04; cálculo propio 12.573 M€,coincide (contrafactual de parte interesada),,S03,2021-2025,>12.500 M€ (2021-25); ~2.700 M€/año
+07_prevision_complementaria,Aportaciones 1S-2026,A,,S02 (T1: 778/357/…/91),coincide,,S01,1S-2026,"1.509 M€ (+8,5 %); individual 688; empleo 817; simplificados 272 (+120 %)"
+07_prevision_complementaria,Límite individual deducible,B,,S06,coincide (dos fuentes sectoriales; falta BOE),,S03,2021-2022,8.000 → 2.000 → 1.500 €
+07_prevision_complementaria,Límite conjunto 10.000 € con aportación empresarial,C,,—,una sola fuente / pendiente,,(pendiente BOE),vigente 2023-26,10.000 € (8.500 € empresa)
+07_prevision_complementaria,Saldo medio por cuenta (individual / empleo / simplificado),B,,"S10 (16.393 € per cápita en EPSV empleo, 2024)",rango (distintos universos),,cálculo propio sobre S01,jun-2026,≈14.100 / 12.700 / 810 €
+07_prevision_complementaria,Aportación media simplificados autónomos,A,,S03 (176 M€ / 76.577 = 2.298 €),coincide,,S04 (Inverco),2025,≈2.300 €/año
+07_prevision_complementaria,Aportación media sectorial,B,,S03,rango,,S04,2025,~200 € (Inverco) vs 117 € (cálculo)
+07_prevision_complementaria,Cobertura empleo España (ocupados),C,,S04 (3 M partícipes vs 13 M objetivo),una sola fuente con sesgo (cita encuesta de terceros),,S11,2025-26,~15 % (vs 28 % UE)
+07_prevision_complementaria,Empresas con sistema de previsión,C,,—,una sola fuente,,S11,2026,27 % (estable 9 años)
+07_prevision_complementaria,Cobertura Euskadi (ocupados con EPSV empleo),A,,S08/S09 (socios empleo 594.964 T1-26),una sola fuente oficial (coherente con S09),,S10,2024,"25 % (Araba 19, Bizkaia 15, Gipuzkoa 43)"
+07_prevision_complementaria,Socios EPSV distintos,A,,S08,coincide,,S10,2024-2025,863.146 (2024) → 878.028 (2025)
+07_prevision_complementaria,Patrimonio EPSV,A,,S09,coincide,,S08,2025-26,"≈32,7 mil M€ (33,26 % PIB) 2025; 32.527,7 M€ T1-26"
+07_prevision_complementaria,Activos pensiones privadas / PIB España,B,,"Inverco (137.988 M€ dic-25 ≈ 8,1 % PIB; OCDE incluye EPSV/otros)",rango (definición distinta),,S12,2024,"10,76 % (14,41 % en 2020)"
+07_prevision_complementaria,Activos / PIB comparados,A,,—,"una sola fuente (OCDE, oficial)",,S12,2024,"NL 150,9; UK 78,45; SE 115,8; FR 12,86; IT 11,74; PT 12,88; DE 6,36"
+07_prevision_complementaria,Participación voluntaria España (15-64),B,,—,una sola fuente,,S12,2022,"29,46 %"
+07_prevision_complementaria,FPEPP: implantación 2026,C,,"S15 (objetivo 500 M€ en 3 años, 2023)",una sola fuente cualitativa con sesgo,,S06,jul-2026,«prácticamente inexistente» (sin planes ni patrimonio significativo)
+07_prevision_complementaria,Hipotecas inversas,B,,S14 (Registradores ≈ 300; Santander-Mapfre 265),rango (Notariado vs Registradores),,S13 (Notariado),2025-26,499 (2025); 205 (ene-ago 2026); 780 (2009)
+07_prevision_complementaria,Pensión complementaria estimada EPSV empleo,B,,—,una sola fuente oficial (hipótesis explícitas),,S10,2024,≈300 €/mes = 15 % pensión media CAE
