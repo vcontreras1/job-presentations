@@ -11,6 +11,15 @@ Verificación: "fuente abierta" = cifra vista en la propia página o fichero; "s
 - Entorno: creado entorno personal "job-presentations" con 20 dominios de datos permitidos (INE, Eurostat, BCE, BdE, EIOPA, OCDE, Inverco, CCS, DGSFP, UNESPA, AIReF, CaixaBank Research, BBVA Research, Funcas, INCIBE, Swiss Re, Epoch AI, IMSERSO, CIS). La lectura web (WebFetch) también depende de esa lista: euromonitor.com falla.
 - Directorio de trabajo: sin material previo del Enfoque B (solo README).
 
+
+## Narrativas dominantes oficiales (ficha "Temática · Previsión", diapositiva 14 de Tendencias de Innovación 2027, aportada por Valeria el 26/11/2026)
+| Lente | Qué cambia (narrativa dominante) | Dato clave de la ficha | Evidencia en ficha | Estado de verificación |
+|---|---|---|---|---|
+| 1 Longevity planning (Previsión · Cuidado · Macro) | "Vivir más se convierte en un proyecto financiero, de salud y de cuidados: la jubilación depende más del ahorro propio y el cuidado se desplaza al domicilio." | 54 % de las cuentas de pensiones de empleo en España no recibió aportaciones en 2024 · OCDE | Informes 8 de 41 · 3 familias; Radar T03, T04, T05; Oficiales 4; Encaje 9/9 | 54 %: visto solo en prensa (Alicante Plaza, Archyde) atribuido a la OCDE; NO abierto en la OCDE (oecd.org fuera de la lista de dominios). Además, OCDE Pension Markets in Focus 2025 (solo búsqueda) dice que en España las aportaciones subieron >10 % en 2024, invirtiendo una década de caídas → cruce con lente A. Cuadrante: DC hasta verificar |
+| 2 Agentic workforce (Previsión · De cliente) | "Los puestos pasan a supervisar agentes y las rentas se diversifican: cambia a quién hay que proteger y cómo." | 30 % de los puestos junior y medios pasará a supervisar agentes en 2029 · IDC | Informes 10 de 41 · 4 familias; Radar T01 en parte; Oficiales —; Encaje 7/9 | sin verificar (es una previsión de consultora, no un dato) → DC |
+| 3 Living benefits (Previsión · De cliente) | "El cliente descuenta las promesas a largo plazo: decesos, Vida y ahorro se juzgan por sus servicios en vida y por un final a medida." | 25 % de los menores de 40 descarta el seguro de Vida por falta de beneficios inmediatos · Capgemini-LIMRA | Informes 3 de 41 · 2 familias; Radar sin tendencia propia; Oficiales 3; Encaje 8/9 | sin verificar → DC |
+Regla de reparto: los datos de aportaciones a planes (como el 54 %) se trabajan en la lente A y se citan como cruce en la lente 1.
+
 ## Fase 0 · Lente B "Tendencias de consumo (monitor)"
 
 | # | Dato / afirmación | Valor | Fuente (entidad, año) | URL | Fecha acceso | Verificación | Estado | Cuadrante |
