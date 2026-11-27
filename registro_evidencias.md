@@ -6,6 +6,7 @@ Verificación: "fuente abierta" = cifra vista en la propia página o fichero; "s
 
 ## Estado de la misión
 - Fase 0: lente B resuelta → Valeria elige combinación 2 + 1 (26/11/2026): BBVA Research Monitor Big Data de Consumo como serie principal + CaixaBank Research Monitor de Consumo como segunda fuente. Euromonitor solo para narrativa dominante.
+- Fase 2: lente 7 → L7-H1 APROBADO (27/11/2026). Siguiente: lente 3 (Living benefits).
 - Fase 2: lente 1 → hallazgo L1-H1 APROBADO (27/11/2026) como NICHO DIFERENCIAL, no como centro de la lente. Centro de la lente 1 = narrativa de la ficha (Previsión), pendiente de veredicto con el 54 % OCDE (se verifica en la lente A y se cita como cruce).
 - Criterio de Valeria (27/11/2026): en cada lente, el hallazgo es el nicho que da un diferencial en la conversación; el centro de la lente es la narrativa de la ficha contrastada con datos.
 - Nota de método: imserso.es bloquea descargas automáticas con un cortafuegos (WAF). No se fuerza; se usan las notas del Ministerio (dsca.gob.es) y el Observatorio (fuente independiente).
@@ -125,3 +126,12 @@ Centro (diapositiva 13): dato clave "95 % cree que sus riesgos pueden prevenirse
 - Lógica: en decesos la muerte es segura; prevenir una caída mortal no evita el siniestro. El valor para Santalucía no está en reducir siniestralidad de decesos (hipótesis: retrasar dependencia, vínculo con el cliente).
 - Contradicciones para Valeria: B1 magnitud de la tasa (+53 % desde 2011 vs +38 % desde 2012; salto 2012 coincide con trasvase desde "otros accidentes" X59; caídas + otros accidentes +10 % 2011-2023); B2 año (2024 definitivo: 4.450 caídas, 1.853 tráfico, ratio 2,4 vs 2025 provisional: 4.814 y 1.774, ratio 2,7; definitivos 2025 salen en diciembre de 2026); B3 tráfico INE 1.853 (causa básica, sin plazo) vs DGT 1.785 a 30 días en 2024 (solo buscador; dgt.es bloqueado).
 - Sin verificar: lugar de la caída; año de adopción de IRIS; teleasistencia en pólizas senior de Santalucía (solo buscador); el "95 %" de la diapositiva.
+
+### DECISIONES DE VALERIA · lente 7 (27/11/2026)
+- L7-H1 APROBADO como nicho diferencial.
+- B1: SUSTITUIR por +38 % → tasa estandarizada de mortalidad por caídas ES: 5,27 (2012) → 7,29 (2023) por 100.000 (Eurostat hlth_cd_asdr2).
+- B2: DETALLAR AMBOS → 2024 definitivo (caídas 4.450; tráfico 1.853; ratio 2,4) y 2025 provisional (4.814; 1.774; ratio 2,7; INE avisa de posible infravaloración). Actualizar cuando salgan los definitivos de 2025 (dic. 2026).
+- B3: MANTENER INE (1.853, causa básica) por homogeneidad con caídas.
+
+#### Texto aprobado L7-H1 (nicho diferencial)
+Las muertes por caídas accidentales casi se triplicaron desde 2000 (1.503 → 4.450 en 2024; 4.814 en 2025 provisional) y ya son 2,4 veces las de tráfico (1.853, estancadas desde 2013; 2,7 veces con 2025 provisional); el 86 % tenía 65+; la tasa ajustada por edad sube un 38 % entre 2012 y 2023. Matiza "del producto al sistema": la causa externa que más fallecidos suma son las caídas de mayores (lugar no consta). Hipótesis: prevención de caídas para clientes mayores (detección en teleasistencia, adaptación del hogar); valor en retrasar dependencia y vínculo, no en siniestralidad de decesos.
