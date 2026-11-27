@@ -6,7 +6,8 @@ Verificación: "fuente abierta" = cifra vista en la propia página o fichero; "s
 
 ## Estado de la misión
 - Fase 0: lente B resuelta → Valeria elige combinación 2 + 1 (26/11/2026): BBVA Research Monitor Big Data de Consumo como serie principal + CaixaBank Research Monitor de Consumo como segunda fuente. Euromonitor solo para narrativa dominante.
-- Fase 2: lente 12 → L12-H1 APROBADO (27/11/2026). Siguiente: lente 2 (Agentic workforce).
+- Fase 2: lente 2 → SIN TWIST VERIFICABLE (Valeria: pasar a la siguiente, 27/11/2026). Apartado corto: veredicto matizada, por qué no hay twist, dato que faltaría (uso de IA por puesto de trabajo; serie de pluriempleo del registro de la Seguridad Social). Siguiente: lente 10 (Trusted autonomy).
+- Fase 2: lente 12 → L12-H1 APROBADO (27/11/2026).
 - Fase 2: lente 3 → L3-H1 APROBADO (27/11/2026).
 - Fase 2: lente 7 → L7-H1 APROBADO (27/11/2026).
 - Fase 2: lente 1 → hallazgo L1-H1 APROBADO (27/11/2026) como NICHO DIFERENCIAL, no como centro de la lente. Centro de la lente 1 = narrativa de la ficha (Previsión), pendiente de veredicto con el 54 % OCDE (se verifica en la lente A y se cita como cruce).
@@ -213,3 +214,14 @@ Centro (diapositiva 14): "Los puestos pasan a supervisar agentes y las rentas se
 - IA en empresas: Eurostat 2025 (0-9: 10,08 %; 250+: 57,46 %) ya superado por INE ETICCE 1T 2026 (abierto 27/11/2026: https://www.ine.es/dyngs/Prensa/ETICCE20251T2026.pdf): 33,6 % de empresas de 10+ usan IA (Servicios 38,2; Industria 29,1; Construcción 22,6); empresas <10 empleados: 21,4 % (sobre las que tienen Internet). Cambio de codificación CNAE-2025 desde referencia 2025 → comparabilidad limitada. INE 1T 2025: <10 13,4 %, 10+ 21,1 % (solo buscador).
 - Registro Seguridad Social: ~823.107 personas en pluriempleo/pluriactividad fin 2025 (prensa) vs EPA 577,8 mil (media 2025) o 632,6 mil (4T 2025): perímetros distintos.
 - Decisión propia: presentar a Valeria como "sin twist sólido" en la lente 2 y preguntar si seguir o pasar.
+
+## Lente 10 · Trusted autonomy ("la IA opera bajo control")
+Centro (diapositiva 13): "la IA opera bajo control" · sin dato clave en la diapositiva. Recurrencia 46 % (la más alta).
+
+| # | Dato | Valor | Fuente | URL | Fecha acceso | Verificación | Estado | Cuadrante |
+|---|---|---|---|---|---|---|---|---|
+| L10-1 | Motivos para no usar IA generativa, % individuos 16-74, 2025 | ES: no lo necesita 20,55; no sabía que existía 14,44; no sabía usarla 16,10; privacidad/seguridad 3,76; otros 3,61. UE27: 39,25 / 5,17 / 8,41 / 4,43 / 3,28. Conocimiento (existía+usar) ES 30,5 vs UE 13,6 | Eurostat isoc_ai_iaiuxr, act. 17/04/2026 | https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/isoc_ai_iaiuxr?geo=ES&geo=EU27_2020&unit=PC_IND | 27/11/2026 | fuente abierta (API) | pendiente revisión | CC candidato |
+| L10-2 | Ídem por edad | ES 65-74: no sabía que existía 25,35; no sabía usarla 25,93 (51,3); privacidad 4,76; no lo necesita 18,65. UE 65-74: 8,70 / 13,28 (22,0) / 6,45 / 40,07. ES 55-74: 22,69 / 23,60 / 4,71. ES 16-24: 4,66 / 4,83 / 1,25 | Eurostat isoc_ai_iaiuxr | ídem | 27/11/2026 | fuente abierta (API) | pendiente revisión | — |
+| L10-3 | Barreras de empresas (≥10) para no usar IA, % empresas, ES | Falta de conocimientos 2,98 (2021) → 9,09 (2025); privacidad 1,43 → 5,94 (×4,2); falta de claridad legal 1,55 → 5,66 (×3,6); costes 2,61 → 5,23; datos 1,98 → 5,30; ética 0,70 → 2,58. UE 2025: conocimientos 7,76; privacidad 5,82; legal 5,92 | Eurostat isoc_eb_ai, act. 15/06/2026 | https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/isoc_eb_ai?geo=ES&geo=EU27_2020&unit=PC_ENT&size_emp=GE10 | 27/11/2026 | fuente abierta (API) | pendiente revisión | — |
+| L10-4 | Empresas con medidas para comprobar sesgos de la IA hacia personas (2024, variable opcional, 12 países) | ES 0,35 % de empresas ≥10 (≈3,1 % de las que usan IA, 11,31 %); rango 1,3-5,7 % de usuarios en 12 países | Eurostat isoc_eb_ai (E_AI_BIAS) | https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/isoc_eb_ai?unit=PC_ENT&size_emp=GE10&indic_is=E_AI_BIAS&indic_is=E_AI_TANY | 27/11/2026 | fuente abierta (API) | pendiente | DD candidato (señal débil: control efectivo rarísimo) |
+| L10-5 | Aseguradoras europeas y GenAI | 347 entidades de 25 países; ~2/3 usan GenAI; 49 % con política de IA específica (25 % en 2023); 69 % de las que usan GenAI tienen política; 64 % de casos de uso internos; 36 % con aplicaciones de cara al cliente | EIOPA, Report on Gen AI (EIOPA-BoS-25-679), 02/02/2026 | https://www.eiopa.europa.eu/document/download/bec886e2-dea0-4bbe-9624-d5f23f85700a_en?filename=EIOPA-BoS-25-679-GenAI-Report.pdf | 27/11/2026 | fuente abierta | pendiente | — |
