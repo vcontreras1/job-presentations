@@ -21,6 +21,21 @@ Verificación: "fuente abierta" = cifra vista en la propia página o fichero; "s
 | 3 Living benefits (Previsión · De cliente) | "El cliente descuenta las promesas a largo plazo: decesos, Vida y ahorro se juzgan por sus servicios en vida y por un final a medida." | 25 % de los menores de 40 descarta el seguro de Vida por falta de beneficios inmediatos · Capgemini-LIMRA | Informes 3 de 41 · 2 familias; Radar sin tendencia propia; Oficiales 3; Encaje 8/9 | sin verificar → DC |
 Regla de reparto: los datos de aportaciones a planes (como el 54 %) se trabajan en la lente A y se citan como cruce en la lente 1.
 
+
+## Matriz de doce líneas (diapositiva 13 "Marco propuesto", aportada por Valeria el 27/11/2026: es todo lo que hay para Protección y Transversal)
+Columnas = lentes del modelo (Tendencias de cliente · tecnológicas · industriales · macro). Datos clave que muestra la diapositiva (sin fuente visible; a verificar como DC):
+- 1 Longevity planning (macro; Previsión·Cuidado): 30,9 % de la población tendrá 65+ en 2076 (hoy 21,1 %); 54 % de las cuentas de pensiones de empleo sin aportaciones en 2024.
+- 4 Wellness burnout (cliente): 58 % declara estrés diario de moderado a extremo. [FUERA]
+- 5 Synthetic care (tecnológica): +50 % empezará su recorrido de salud en una IA pública. [FUERA]
+- 6 Protection gap (macro; Protección): "el clima entra en la rutina del seguro" · 60 % de las pérdidas por catástrofes hasta junio de 2026, sin asegurar.
+- 7 Predict & prevent (industrial; Protección): "el seguro pasa del producto al sistema" · 95 % cree que sus riesgos pueden prevenirse al menos en parte.
+- 8 Zero-day era (tecnológica; Protección): "el riesgo digital se vuelve sistémico" · sin dato.
+- 9 AI liability (tecnológica; Protección): "la IA pasa a ser un riesgo asegurable" · sin dato.
+- 10 Trusted autonomy (tecnológica; Transversal): "la IA opera bajo control" · sin dato.
+- 11 Tokenomics (tecnológica; Transversal): "la IA se gestiona por coste y por retorno" · sin dato.
+- 12 Agentic commerce (industrial; Transversal): "el asistente de IA media la compra" · 51 % usaría IA generativa para comparar seguros de Vida.
+- Pie: Condiciones transversales (Confianza · Asequibilidad) · A vigilar (Frontera tecnológica) · Contexto 2027 (Ciclo blando · Geopolítica y soberanía) · A ficha de ámbito (Nuevos residentes · Familias y mascotas).
+
 ## Fase 0 · Lente B "Tendencias de consumo (monitor)"
 
 | # | Dato / afirmación | Valor | Fuente (entidad, año) | URL | Fecha acceso | Verificación | Estado | Cuadrante |
