@@ -6,7 +6,8 @@ Verificación: "fuente abierta" = cifra vista en la propia página o fichero; "s
 
 ## Estado de la misión
 - Fase 0: lente B resuelta → Valeria elige combinación 2 + 1 (26/11/2026): BBVA Research Monitor Big Data de Consumo como serie principal + CaixaBank Research Monitor de Consumo como segunda fuente. Euromonitor solo para narrativa dominante.
-- Fase 2: lente 7 → L7-H1 APROBADO (27/11/2026). Siguiente: lente 3 (Living benefits).
+- Fase 2: lente 3 → L3-H1 APROBADO (27/11/2026). Siguiente: lente 12 (Agentic commerce).
+- Fase 2: lente 7 → L7-H1 APROBADO (27/11/2026).
 - Fase 2: lente 1 → hallazgo L1-H1 APROBADO (27/11/2026) como NICHO DIFERENCIAL, no como centro de la lente. Centro de la lente 1 = narrativa de la ficha (Previsión), pendiente de veredicto con el 54 % OCDE (se verifica en la lente A y se cita como cruce).
 - Criterio de Valeria (27/11/2026): en cada lente, el hallazgo es el nicho que da un diferencial en la conversación; el centro de la lente es la narrativa de la ficha contrastada con datos.
 - Nota de método: imserso.es bloquea descargas automáticas con un cortafuegos (WAF). No se fuerza; se usan las notas del Ministerio (dsca.gob.es) y el Observatorio (fuente independiente).
@@ -161,3 +162,11 @@ Centro (diapositiva 14): "El cliente descuenta las promesas a largo plazo: deces
   - Pareja sin hijos 65+: 59,0 → 58,9 (español 60,6 → 60,6). Persona sola 65+: 56,9 → 52,1 (caída coincide con la ruptura de 2024).
   - Margen aprox. ±2 pp por grupo (muestreo aleatorio simple; sin efecto de diseño).
 - Contradicciones: B1 cifras UNESPA (sin ponderar) vs recálculo ponderado; B2 "otros hogares" es artefacto de 2024 (no usar); B3 "se concentra" no se sostiene con base 2023 en cifras UNESPA; B4 INE baja 2016-2023 mientras asegurados UNESPA suben (~21,3 M 2016 → 22,27 M 2024); solo coinciden desde 2022; B5 edades UNESPA (30-49 −3,5 a −4,6 pp vs 65-84 −0,3 a −1,4, base 2022; con base 2023 casi desaparece).
+
+### DECISIONES DE VALERIA · lente 3 (27/11/2026)
+- L3-H1 APROBADO como nicho diferencial.
+- B1: CÁLCULO PONDERADO (microdatos EPF con FACTOR del INE, etiquetado "cálculo propio").
+- B2: DETALLAR AMBOS (INE hogares que pagan 41,1 % 2016 → 37,8 % 2025 vs UNESPA personas aseguradas ~21,3 M 2016 → 22,27 M 2024 → 21,80 M 2025, 44,4 %; coinciden en la bajada solo desde 2022).
+
+#### Texto aprobado L3-H1 (nicho diferencial)
+Entre 2021 y 2025 los hogares que pagan un seguro de decesos bajan del 40,5 % al 38,4 %, pero entre los hogares con sustentador español apenas se mueven (43,3 % → 42,6 %): la bajada viene de que crecen los hogares de nuevos residentes (8 % → 12 % de los hogares), que lo pagan mucho menos (~14 %), y de las familias con hijos menores de 16, donde incluso con sustentador español baja del 27,4 % al 21,9 % (cálculo propio, microdatos EPF ponderados). Matiza que "el cliente descuenta las promesas a largo plazo": el hogar español tradicional sigue fiel; la erosión está en dos nichos que hoy no se captan (familias jóvenes con hijos y nuevos residentes) → hipótesis de propuestas específicas (servicios en vida para familias jóvenes; nuevos residentes, a explorar en su ficha de ámbito). Confianza: alta en la serie publicada; media en los desgloses (±2 pp aprox.; cambio de encuesta 2024).
