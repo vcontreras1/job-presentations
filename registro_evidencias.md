@@ -6,7 +6,8 @@ Verificación: "fuente abierta" = cifra vista en la propia página o fichero; "s
 
 ## Estado de la misión
 - Fase 0: lente B resuelta → Valeria elige combinación 2 + 1 (26/11/2026): BBVA Research Monitor Big Data de Consumo como serie principal + CaixaBank Research Monitor de Consumo como segunda fuente. Euromonitor solo para narrativa dominante.
-- Fase 2: lente 3 → L3-H1 APROBADO (27/11/2026). Siguiente: lente 12 (Agentic commerce).
+- Fase 2: lente 12 → L12-H1 APROBADO (27/11/2026). Siguiente: lente 2 (Agentic workforce).
+- Fase 2: lente 3 → L3-H1 APROBADO (27/11/2026).
 - Fase 2: lente 7 → L7-H1 APROBADO (27/11/2026).
 - Fase 2: lente 1 → hallazgo L1-H1 APROBADO (27/11/2026) como NICHO DIFERENCIAL, no como centro de la lente. Centro de la lente 1 = narrativa de la ficha (Previsión), pendiente de veredicto con el 54 % OCDE (se verifica en la lente A y se cita como cruce).
 - Criterio de Valeria (27/11/2026): en cada lente, el hallazgo es el nicho que da un diferencial en la conversación; el centro de la lente es la narrativa de la ficha contrastada con datos.
@@ -186,3 +187,12 @@ Centro (diapositiva 13): dato clave "51 % de los consumidores usaría IA generat
 - Correcciones: "contrató" → "contrata o renueva"; quitar vínculo retórico con la lente 3; "solo coinciden" → "solo 25-44 supera la media en las dos" (lectura por grupos; mismas personas encuestadas pero sin cruce publicado; cruce posible con microdatos TIC-H, a confirmar).
 - Contradicciones para Valeria: B1 ×2,5 desde 2020 (año de confinamiento; en puntos 55-64 +6,6 y 35-44 +6,2 superan a 65-74 +5,0; base 2022 ×1,99; base 2023 ×1,21); B2 vínculo con lente 3 (IND_DCH 2024: personas en hogares con niños 15,65 % vs sin niños 12,43 %; 2025 no publicado; sin dato de IA por tipo de hogar); B3 coincidencia 25-44 es interpretación; B4 la subida de 25-44 se para en 2025 (total 13,36 → 12,58; 35-44 19,65 → 16,19); B5 IA uso privado: total 30,2; 16-24 53,1; 25-34 49,8; 35-44 36,7; 65-74 6,8.
 - Funcas OFT 21/2026 repite datos INE (no independiente). Sin segunda fuente independiente.
+
+### DECISIONES DE VALERIA · lente 12 (27/11/2026)
+- L12-H1 APROBADO como nicho diferencial.
+- B1: SUSTITUIR por ×2 desde 2022 (65-74: 4,13 % en 2022 → 8,21 % en 2025).
+- B2: QUITAR el enlace con la lente 3.
+- B4: MENCIONAR el frenazo de 2025 (total 13,36 → 12,58; 35-44 19,65 → 16,19) como señal a vigilar en "qué nos haría equivocarnos".
+
+#### Texto aprobado L12-H1 (nicho diferencial)
+En España el 38 % de la población de 16 a 74 años usó IA generativa en los tres meses previos (2025; 76 % entre 16 y 24, 7 % entre 65 y 74), pero quien contrata o renueva seguros por internet no es el más joven: 6,8 % de los de 16-24 frente al 15,6-16,2 % de los de 25-44 y el 8,2 % de los de 65-74, que lo han duplicado desde 2022. Matiza que el asistente de IA vaya a mediar la compra de seguros en general (la encuesta mide usar IA para crear contenido, no para comparar o comprar): solo 25-44 supera la media en ambas cosas → hipótesis: empezar por ese segmento a hacer los productos comparables y "legibles" para asistentes de IA; el cliente de 65-74 ya contrata online pero apenas usa IA. Confianza: baja (una sola encuesta oficial).
