@@ -6,7 +6,8 @@ Verificación: "fuente abierta" = cifra vista en la propia página o fichero; "s
 
 ## Estado de la misión
 - Fase 0: lente B resuelta → Valeria elige combinación 2 + 1 (26/11/2026): BBVA Research Monitor Big Data de Consumo como serie principal + CaixaBank Research Monitor de Consumo como segunda fuente. Euromonitor solo para narrativa dominante.
-- Fase 2: lente 1 en curso (hallazgo L1-H1 en revisión).
+- Fase 2: lente 1 → hallazgo L1-H1 APROBADO (27/11/2026) como NICHO DIFERENCIAL, no como centro de la lente. Centro de la lente 1 = narrativa de la ficha (Previsión), pendiente de veredicto con el 54 % OCDE (se verifica en la lente A y se cita como cruce).
+- Criterio de Valeria (27/11/2026): en cada lente, el hallazgo es el nicho que da un diferencial en la conversación; el centro de la lente es la narrativa de la ficha contrastada con datos.
 - Nota de método: imserso.es bloquea descargas automáticas con un cortafuegos (WAF). No se fuerza; se usan las notas del Ministerio (dsca.gob.es) y el Observatorio (fuente independiente).
 - Entorno: creado entorno personal "job-presentations" con 20 dominios de datos permitidos (INE, Eurostat, BCE, BdE, EIOPA, OCDE, Inverco, CCS, DGSFP, UNESPA, AIReF, CaixaBank Research, BBVA Research, Funcas, INCIBE, Swiss Re, Epoch AI, IMSERSO, CIS). La lectura web (WebFetch) también depende de esa lista: euromonitor.com falla.
 - Directorio de trabajo: sin material previo del Enfoque B (solo README).
@@ -80,3 +81,13 @@ Salvedad SHA: HC.3 es el componente sanitario de los cuidados de larga duración
 - C2: 93 % del aumento del gasto a domicilio es público (90-93 % con cualquier base); peso público 85 % → 89 %. Pago directo de hogares en domicilio 285 → 426 M€ (+49 %), peso 15 % → 11 %. El "−14 % en euros" del pago directo total depende de la base (2014 es máximo; base 2015 +0,4 %, 2012 −9 %, 2019 −8 %) → retirado; la caída del PESO sí es robusta.
 - C3: 148.907 = 107.327 (pendientes de PIA) + 41.580 (PIA resuelto sin prestación efectiva). Pendientes de PIA −9 % (118.333 → 107.327); PIA sin prestación +72,4 %. 341 días = solicitud → resolución. Datos a 31/12/2025. El Dictamen se contradice internamente (6.461 vs 6.641; tasa 8,3 % "0,4 p. menos" vs "0,3 p. más") → no citar la dirección de la tasa.
 - Contradicciones para Valeria: B1 peso del bolsillo (SHA 13 % 2024 vs Observatorio copago 20 % del coste SAAD 2025: 2.326,5 de 11.847,9 M€ + copago invisible); B2 tendencia de la espera (Observatorio dic. 2025 +4,5 %, 341 días vs Ministerio sept. 2026 −22,7 %, 293 días); B3 magnitud C1 (+101 % vs +72 % prudente).
+
+### DECISIONES DE VALERIA · lente 1 (27/11/2026)
+- L1-H1 aprobado como nicho diferencial (microtendencia + twist del apartado), no como titular del centro de la lente.
+- B1 (peso del bolsillo): DETALLAR AMBOS → Eurostat SHA 2024: hogares 13,0 % del gasto sanitario en cuidados de larga duración (22,3 % en 2014); Observatorio 2025: copago regulado 20 % del coste directo del SAAD (2.326,5 de 11.847,9 M€) + copago "invisible" sin cuantificar. Perímetros distintos.
+- B2 (tendencia de la espera): DETALLAR AMBOS → 293 días (Ministerio, sept. 2026, lista −22,7 %) como último dato; 341 días (Observatorio, dic. 2025, espera +4,5 %) como dato anterior; 41.580 con PIA sin prestación efectiva (+72,4 %) como dato de dic. 2025 de una sola fuente.
+- B3 (magnitud del giro al domicilio): SUSTITUIR por +72 % → gasto en cuidados de larga duración a domicilio + centros de día (HC.3.4 + HC.3.2): 2.960,7 M€ (2014) → 5.091,1 M€ (2024), +72,0 %; con internamiento (HC.3.1) +38,1 %. Peso de domicilio + centros de día en HC.3: 29,4 % → 34,1 %.
+
+#### Texto aprobado L1-H1 (nicho diferencial)
+El cuidado ya se desplaza al domicilio con dinero público: teleasistencia +21,8 % y ayuda a domicilio +13,6 % en el año a junio de 2026; el Estado casi duplicó su transferencia por persona atendida (≈151 → ≈295 €/mes, jun.-sept. 2026); pero pasan 293 días de media de la solicitud a la resolución (sept. 2026; Murcia 529, Ceuta 75). Matiza que el cuidado dependa sobre todo del ahorro propio; el hueco es la espera → "puente de dependencia" (hipótesis; la reforma de 2026, máx. 3 meses, puede estrechar la ventana).
+Estadísticas de verificación aprobadas: (C1) domicilio + centros de día +72 % vs internamiento +38 % (Eurostat SHA 2014-2024); (C2) 93 % del aumento del gasto a domicilio es público, el pago de hogares a domicilio crece en euros (285 → 426 M€) pero pierde peso (15 % → 11 %) (Eurostat SHA); (C3) 148.907 esperando prestación principal (8,3 %), PIA aprobado sin prestación +72 % (24.113 → 41.580) (Observatorio, dic. 2025) junto a 293 días (Ministerio, sept. 2026).
