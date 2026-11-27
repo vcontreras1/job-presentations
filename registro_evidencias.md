@@ -148,3 +148,16 @@ Centro (diapositiva 14): "El cliente descuenta las promesas a largo plazo: deces
 | L3-5 | Inhumaciones cubiertas | ~294.000 en 2025 = 65,4 % de las defunciones | UNESPA 2025 | ídem L3-1 | 27/11/2026 | fuente abierta | pendiente | — |
 | L3-6 | Población | 1/1/2022: 47.486.727 → 1/1/2026: 49.618.622 (+2,13 M; extranjeros +1,78 M) | INE, ECP (tabla 56936) | https://servicios.ine.es/wstempus/js/ES/DATOS_TABLA/56936 | 27/11/2026 | fuente abierta (API) | pendiente | — |
 | L3-7 | Primas de decesos | 2025: 3.059 M€ (+3,62 %) o +4,27 % (ICEA vía prensa) | solo búsqueda | — | 27/11/2026 | solo búsqueda | pendiente | — |
+
+### Revisión abogado del diablo · L3-H1 (27/11/2026)
+- Tendencia INE verificada (CSV 73827 y 75412): 41,12 % (2016) → 37,82 % (2025); sube en 2017 (+0,24) y plana en 2025 (+0,04) → no "sin pausa". Serie homogénea COICOP 2018 (retabulada 17/12/2025); pesos censo 2021 desde 2021; INE avisa de cambios en la encuesta en 2024. Código 12.1.1.2 T (antiguo 12552; 12112 en microdatos desde 2024).
+- Gasto por hogar que paga: 321,77 → 392,41 € (+22 % nominal; −4 % real con IPC +27,0 %) → NO hay respaldo para "más caro".
+- Las tablas por tipo de hogar de UNESPA son la EPF SIN PONDERAR y con años desplazados (edición "2022" = EPF 2021; "2023" = EPF 2023...). Reproducidas al decimal con microdatos.
+- RECÁLCULO PONDERADO (FACTOR del INE), microdatos EPF 2021 y 2025, verificado también por mí (re-ejecución de scripts_rev_l3h1/epf_nac.py el 27/11/2026):
+  - Todos los hogares: 40,5 % → 38,4 %.
+  - Sustentador español: 43,3 % → 42,6 % (plano). Sustentador extranjero: 15,8 % → 13,9 %; peso en hogares 8,1 % → 12,0 %. Mixto: 22,3 % → 23,0 %.
+  - Hogares con hijos <16: 25,3 % → 19,8 %; solo sustentador español: 27,4 % → 21,9 %. Peso de hogares extranjeros entre familias con hijos <16: 11,2 % → 16,0 %.
+  - Pareja 1 hijo <16: 24,5 % → 18,8 % (español 27,4 → 20,4). Pareja 2 hijos: 26,9 → 21,4.
+  - Pareja sin hijos 65+: 59,0 → 58,9 (español 60,6 → 60,6). Persona sola 65+: 56,9 → 52,1 (caída coincide con la ruptura de 2024).
+  - Margen aprox. ±2 pp por grupo (muestreo aleatorio simple; sin efecto de diseño).
+- Contradicciones: B1 cifras UNESPA (sin ponderar) vs recálculo ponderado; B2 "otros hogares" es artefacto de 2024 (no usar); B3 "se concentra" no se sostiene con base 2023 en cifras UNESPA; B4 INE baja 2016-2023 mientras asegurados UNESPA suben (~21,3 M 2016 → 22,27 M 2024); solo coinciden desde 2022; B5 edades UNESPA (30-49 −3,5 a −4,6 pp vs 65-84 −0,3 a −1,4, base 2022; con base 2023 casi desaparece).
