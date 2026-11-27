@@ -6,6 +6,7 @@ Verificación: "fuente abierta" = cifra vista en la propia página o fichero; "s
 
 ## Estado de la misión
 - Fase 0: lente B resuelta → Valeria elige combinación 2 + 1 (26/11/2026): BBVA Research Monitor Big Data de Consumo como serie principal + CaixaBank Research Monitor de Consumo como segunda fuente. Euromonitor solo para narrativa dominante.
+- Fase 2: lente 10 → L10-H1 APROBADO (27/11/2026). Siguiente: lente 11 (Tokenomics).
 - Fase 2: lente 2 → SIN TWIST VERIFICABLE (Valeria: pasar a la siguiente, 27/11/2026). Apartado corto: veredicto matizada, por qué no hay twist, dato que faltaría (uso de IA por puesto de trabajo; serie de pluriempleo del registro de la Seguridad Social). Siguiente: lente 10 (Trusted autonomy).
 - Fase 2: lente 12 → L12-H1 APROBADO (27/11/2026).
 - Fase 2: lente 3 → L3-H1 APROBADO (27/11/2026).
@@ -231,3 +232,12 @@ Centro (diapositiva 13): "la IA opera bajo control" · sin dato clave en la diap
 - INE TIC-H 2026 (nota 11/11/2026, tabla 82805; base no usuarios): no fue necesario 5,7; no sabía que existían 56,9; no sabía usarlas 18,0; privacidad/seguridad 8,5; ética 4,2 (nueva); otras 14,1 (suma 107,4 → posible respuesta múltiple o pregunta cambiada). Uso de IA generativa 37,9 → 54,8 %. "No sabía que existían" 62,5 % en 16-24 → poco creíble.
 - "No sabía que existía": ES 24,7 % vs UE 8,5 % (3.º de 38 países) → posible problema de comprensión/traducción. Más robusto: "no sabía usarla".
 - Empresas: base de barreras = las que no usan IA y la consideraron (ES 11,04 % en 2025); entre ellas 82 % falta de conocimientos, 54 % privacidad, 51 % claridad legal → la confianza no es residual en empresas. Agregado excluye sector financiero. El "×4,2" mezcla crecimiento de la base (×2,6).
+
+### DECISIONES DE VALERIA · lente 10 (27/11/2026)
+- L10-H1 APROBADO como nicho diferencial.
+- B1: DETALLAR AMBOS (2025 Eurostat comparable con UE + INE 2026 como confirmación de que la privacidad pesa poco: 6,4 % → 8,5 %, avisando del cambio de pregunta).
+- B2: SOLO "no sabía usarla" (ES 27,5 % vs UE 13,8 % de no usuarios internautas; 65-74: 33,1 % vs 18,3 %).
+- B3: DETALLAR AMBOS (particulares: freno = saber usarla; empresas que se plantean la IA: 82 % conocimientos, 54 % privacidad, 51 % claridad legal).
+
+#### Texto aprobado L10-H1 (nicho diferencial)
+Entre los internautas españoles que no usan IA generativa, la privacidad o la seguridad es el motivo principal de muy pocos (6,4 % en 2025; 8,5 % en 2026, INE, con pregunta cambiada), mientras "no sabía usarla" duplica la media europea (27,5 % frente a 13,8 %; 33,1 % frente a 18,3 % entre los de 65 a 74). En la empresa que se plantea la IA la confianza sí pesa (54 % privacidad, 51 % claridad legal, junto al 82 % falta de conocimientos). Matiza "la IA opera bajo control": para el particular el freno es saber usarla → hipótesis: entrada asistida por personas (agentes, red comercial, teléfono) más que mensajes de seguridad. Confianza: media-baja.
